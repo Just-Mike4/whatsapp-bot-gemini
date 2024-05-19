@@ -1,0 +1,23 @@
+Here are some questions based on the course descriptions:
+General Questions
+What is the course title of CSC 104?
+How many units is CSC 104?
+What is the course title of CSC 111?
+How many units is CSC 111?
+What is the course title of CSC 112?
+How many units is CSC 112?
+Specific Questions
+What are the basic elements of programming languages covered in CSC 104?
+What are the generations of computers discussed in CSC 111?
+What are the major components of simple machine architecture covered in CSC 112?
+What are the problem-solving steps covered in CSC 120?
+What are the programming paradigms discussed in CSC 132?
+What are the tools used for computer service described in CSC 208?
+Course Content Questions
+What are the basic concepts of computer organization covered in CSC 112?
+What are the features of a common and popular programming language studied in CSC 132?
+What are the principles of programming languages covered in CSC 132?
+What are the concepts of database design and management covered in CSC 214?
+What are the fundamentals of digital electronics covered in CSC 217?
+What are the relationships between high-level languages and computer architecture discussed in CSC 218?
+Let me know if you need more questions or any further assistance!
