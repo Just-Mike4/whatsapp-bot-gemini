@@ -40,7 +40,7 @@ df = pd.read_csv('data/data.csv')
 vectorizer = TfidfVectorizer(stop_words='english')
 
 # Fit the vectorizer to the combined cleaned text column
-vectorizer.fit(df['Combined Cleaned Text'])
+vectorizer.fit(df['Corrected Text'])
 
 # Create a continuous Q&A bot
 while True:
@@ -58,7 +58,7 @@ while True:
     question_vector = vectorizer.transform([cleaned_question])
 
     # Calculate the cosine similarity between the question and the combined cleaned text
-    similarities = cosine_similarity(question_vector, vectorizer.transform(df['Combined Cleaned Text']))
+    similarities = cosine_similarity(question_vector, vectorizer.transform(df['Corrected Text']))
 
     # Get the index of the row with the highest similarity score
     best_match_index = np.argmax(similarities)
