@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
 # Load the text file
-with open('data/ex.txt', 'r', encoding='utf-8') as file:
+with open('data/data.txt', 'r', encoding='utf-8') as file:
 	text = file.read()
 
 # Split the text into sentences
