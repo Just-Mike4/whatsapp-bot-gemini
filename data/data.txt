@@ -9,6 +9,7 @@ In line with the rationale and philosophy of our Bachelor’s programmes, the ai
 1.	To produce graduates with skills and knowledge that will allow them to be comparable with peers in the international community. 
 2.	To produce graduates who are capable of applying appropriate scientific principles for solving problems for the promotion of human well-being. 
 3.	To produce graduates who are well prepared and ready for self-employment and job creation as an option to seeking employment in the labour market, hence reducing unemployment and boosting our economy. 
+
 OBJECTIVES 
 The following are the objectives of the programmes:  
 1.	To teach computer science courses that are relevant to the growing needs of this dynamic world. 
@@ -17,24 +18,25 @@ The following are the objectives of the programmes:
 4.	To inculcate in our students presentation skills and increase their awareness on the benefits of public engagements. 
                                                                                                                                                               
 LEARNING OUTCOMES 
- 
 At the end of any of the BSc. Degree programme in computer science, graduates are expected to: 
- 
 1.	have comprehensive knowledge of computer science encompassing an understanding of the theoretical foundations and quantitative tools in computer science, as well as the ability to apply the knowledge to solving problems. 
 2.	be able to demonstrate problem solving capacity using computational approach in an innovative and creative way. 
 3.	display comprehensive knowledge of computer science and should have acquired entrepreneurial skills for self-sufficiency and also to meet the needs of the public and private sectors in Nigeria and beyond. 
  
 ADMISSION REQUIREMENTS  
-Admission into BSc. Computer programme is in two categories as follows; 
+Admission into BSc. Computer programme is in two categories as follows:
 i. 	Unified Tertiary Matriculation Examination (UTME) 
 Five (5) O/Level credits including English Language, Mathematics, Physics to form the core subjects with credit in any other two relevant science subjects, at the Senior Secondary School Certificate or its equivalent, at a maximum of two sittings.  
-II. DIRECT ENTRY 
+ii. Direct Entry
 The direct entry admits prospective students into the 200 Level of the Degree Programme with a minimum of two “A” level passes, National Diploma Certificate at a minimum of Upper Credit pass in the relevant subjects.  
+
 DURATION OF STUDY 
 a.	Students who entered through the UTME route are required to spend minimum of 4 academic sessions and maximum of 6 academic sessions.  
 b.	Students who entered through the direct entry option are required to spend minimum of 3 academic sessions and maximum of 6 academic sessions.  
+
 GRADUATION REQUIREMENTS 
 In addition to the general requirements for graduation in the University’s as contained in the brochure, all students who entered through UTME must pass courses totaling a minimum of 144 units while those who entered through direct entry are required to pass courses totaling a minimum of 108 units. 
+
 REGISTRATION OF COURSES 
 Students are required to complete registration of courses based on the time and conditions stipulated by the University brochure. 
  

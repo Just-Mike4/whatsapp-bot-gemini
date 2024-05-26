@@ -1,4 +1,3 @@
-import PyPDF2
 import re
 import numpy as np
 import pandas as pd
@@ -6,7 +5,6 @@ import string
 from spacy.lang.en.stop_words import STOP_WORDS
 import spacy
 import language_tool_python
-
 
 # Initialize punctuation and stopwords
 punc = string.punctuation
@@ -34,12 +32,9 @@ def text_cleaner(sentence):
             cleaned_tokens.append(token)
     return cleaned_tokens
 
-# Extract text from PDF
-with open('data/data.pdf', 'rb') as f:
-    pdf = PyPDF2.PdfReader(f)
-    text = ''
-    for page in range(len(pdf.pages)):
-        text += pdf.pages[page].extract_text()
+# Load the preprocessed data
+with open('data/data.txt', 'r') as file:
+    text = file.read()
 
 # Preprocess text
 headings = []
@@ -50,6 +45,7 @@ for line in text.splitlines():
     if line.isupper(): 
         current_heading = line
         headings.append(line)
+        
     else:
         if line.strip():  # If line is not empty
             sentence += line + ' '
@@ -60,7 +56,8 @@ for line in text.splitlines():
         if line.endswith('.'):  # If line ends with a full stop, it marks the end of a sentence
             sentences.append((current_heading, sentence.strip()))  # Associate sentence with current heading
             sentence = ''
-
+        if 'Code Title' in line or 'Total units' in line:  # Check if the line contains table headers
+            sentences = []  # Reset the sentences list to remove the table
 
 # Create numpy array
 data = np.zeros((len(sentences), 6), dtype=object)
@@ -78,6 +75,6 @@ for i, (heading, sentence) in enumerate(sentences):
 
 # Print table
 df = pd.DataFrame(data, columns=['Heading', 'Sentence', 'Cleaned Heading', 'Cleaned Sentence', 'Combined Cleaned Text', 'Corrected Text'])
-print(df.head(20))
-print(df.tail(20))
+# print(df.head(20))
+# print(df.tail(20))
 df.to_csv('data/data.csv', index=False)
