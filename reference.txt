@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset?resource=download :: intents.json
+https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot :: dialogs
+
+edit sourse code: if not isinstance(key, collections.abc.Hashable):
+
+
+https://github.com/google-research-datasets/Synthetic-Persona-Chat/tree/main 
+
+
