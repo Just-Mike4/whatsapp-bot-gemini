@@ -63,8 +63,8 @@ for line in text.splitlines():
 data = np.zeros((len(sentences), 6), dtype=object)
 for i, (heading, sentence) in enumerate(sentences):
     # Ensure heading and sentence are strings
-    heading = str(heading) if heading is not None else ""
-    sentence = str(sentence) if sentence is not None else ""
+    heading = str(heading) if heading is not None else " "
+    sentence = str(sentence) if sentence is not None else " "
     
     data[i, 0] = heading
     data[i, 1] = sentence

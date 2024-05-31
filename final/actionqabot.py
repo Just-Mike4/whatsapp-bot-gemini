@@ -7,6 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import language_tool_python
 import numpy as np
+from chatterbot.trainers import ChatterBotCorpusTrainer
 
 class ENGSM:
     ISO_639_1 = 'en_core_web_sm'
@@ -33,22 +34,8 @@ vectorizer = TfidfVectorizer(stop_words='english')
 vectorizer.fit(df['Corrected Text'])
 
 # Initialize ChatterBot
-chatbot = ChatBot('Charlie', tagger_language=ENGSM)
-trainer = ListTrainer(chatbot)
+chatbot = ChatBot('Test model', tagger_language=ENGSM)
 
-# Load and train the chatbot with the dialogue file
-with open('final/dialogs.txt', 'r') as file:
-    dialogues = file.readlines()
-
-conversation_pairs = []
-for dialogue in dialogues:
-    if '\t' in dialogue:
-        pair = dialogue.strip().split('\t')
-        if len(pair) == 2:
-            conversation_pairs.append(pair)
-
-for pair in conversation_pairs:
-    trainer.train(pair)
 
 # Define a function to generate a summary based on the user input
 def generate_summary(user_input):
@@ -57,18 +44,21 @@ def generate_summary(user_input):
     similarities = cosine_similarity(input_vector, vectorizer.transform(df['Corrected Text']))
     best_match_index = np.argmax(similarities)
     summary = df.loc[best_match_index, 'Corrected Text']
-    return summary
+    score = similarities[0, best_match_index]
+    return summary, score
 
 # Define a function to handle user input and generate a response
 def handle_user_input(user_input):
-    summary = generate_summary(user_input)
+    summary, score = generate_summary(user_input)
     response = chatbot.get_response(user_input)
-    return summary, response
+    return summary, score, response
 
 # Interactive loop for testing
 user_input = input("Ask a question (or type 'exit' to quit): ")
 while user_input.lower() != 'exit':
-    summary, response = handle_user_input(user_input)
-    print(f"Summary: {summary}")
-    print(f"Chatbot: {response}")
+    summary, score, response = handle_user_input(user_input)
+    if score>0:
+        print(f"Chatbot: {summary}")
+    else:
+        print(f"Chatbot: {response}")
     user_input = input("Ask a question (or type 'exit' to quit): ")
