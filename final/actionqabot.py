@@ -8,6 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import language_tool_python
 import numpy as np
 from chatterbot.trainers import ChatterBotCorpusTrainer
+from summarizingmodel import generate_summarized_text
 
 class ENGSM:
     ISO_639_1 = 'en_core_web_sm'
@@ -70,6 +71,7 @@ user_input = input("Ask a question (or type 'exit' to quit): ")
 while user_input.lower() != 'exit':
     summary, score, response = handle_user_input(user_input)
     if score>0:
+        # summary= generate_summarized_text(summary, 2)
         print(f"Chatbot: {summary}")
     else:
         print(f"Chatbot: {response}")
