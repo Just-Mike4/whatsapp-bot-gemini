@@ -45,10 +45,9 @@ for line in text.splitlines():
     if line.isupper(): 
         current_heading = line
         headings.append(line)
-        
     else:
         if line.strip():  # If line is not empty
-            sentence += line + ' '
+            sentence += line + ''
         else:  # If line is empty, it marks the end of a sentence
             if sentence:
                 sentences.append((current_heading, sentence.strip()))  # Associate sentence with current heading
@@ -56,15 +55,12 @@ for line in text.splitlines():
         if line.endswith('.'):  # If line ends with a full stop, it marks the end of a sentence
             sentences.append((current_heading, sentence.strip()))  # Associate sentence with current heading
             sentence = ''
-        if 'Code Title' in line or 'Total units' in line:  # Check if the line contains table headers
-            sentences = []  # Reset the sentences list to remove the table
 
 # Create numpy array
 data = np.zeros((len(sentences), 6), dtype=object)
 for i, (heading, sentence) in enumerate(sentences):
     # Ensure heading and sentence are strings
-    heading = str(heading) if heading is not None else " "
-    sentence = str(sentence) if sentence is not None else " "
+    
     
     data[i, 0] = heading
     data[i, 1] = sentence
@@ -77,4 +73,4 @@ for i, (heading, sentence) in enumerate(sentences):
 df = pd.DataFrame(data, columns=['Heading', 'Sentence', 'Cleaned Heading', 'Cleaned Sentence', 'Combined Cleaned Text', 'Corrected Text'])
 # print(df.head(20))
 # print(df.tail(20))
-df.to_csv('data/data.csv', index=False)
+df.to_csv('data/data2.csv', index=False)

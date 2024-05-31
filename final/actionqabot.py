@@ -19,31 +19,43 @@ stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 tool = language_tool_python.LanguageTool('en-US')
 
 # Load the preprocessed data
-df = pd.read_csv('data/data.csv')
+df = pd.read_csv('data/data2.csv')
 
 def text_cleaner(sentence):
+    # Ensure the sentence is a string
     if sentence is None:
         sentence = ""
     doc = nlp(sentence)
-    tokens = [token.lemma_.lower().strip() if token.lemma_ != "-PRON-" else token.lower_ for token in doc]
-    cleaned_tokens = [token for token in tokens if token not in stopwords and token not in punc]
+    
+    tokens = []
+    for token in doc:
+        if token.lemma_ != "-PRON-":
+            temp = token.lemma_.lower().strip()
+        else:
+            temp = token.lower_
+        tokens.append(temp)
+        
+    cleaned_tokens = []
+    for token in tokens:
+        if token not in stopwords and token not in punc:
+            cleaned_tokens.append(token)
     return cleaned_tokens
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
-vectorizer.fit(df['Corrected Text'])
+vectorizer.fit(df['Sentence'])
 
 # Initialize ChatterBot
-chatbot = ChatBot('Test model', tagger_language=ENGSM)
+chatbot = ChatBot('New Bot', tagger_language=ENGSM)
 
 
 # Define a function to generate a summary based on the user input
 def generate_summary(user_input):
     cleaned_input = ' '.join(text_cleaner(user_input))
     input_vector = vectorizer.transform([cleaned_input])
-    similarities = cosine_similarity(input_vector, vectorizer.transform(df['Corrected Text']))
+    similarities = cosine_similarity(input_vector, vectorizer.transform(df['Sentence']))
     best_match_index = np.argmax(similarities)
-    summary = df.loc[best_match_index, 'Corrected Text']
+    summary = df.loc[best_match_index, 'Sentence']
     score = similarities[0, best_match_index]
     return summary, score
 

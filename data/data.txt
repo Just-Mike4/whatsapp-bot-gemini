@@ -1,7 +1,5 @@
-
 RATIONALE AND PHILOSOPHY.
 The use of computers is on an historical increase in Nigeria and computers are rapidly becoming parts of our lives. This includes social networking, online shopping, teaching and research, transportation, communication, marketing, to automobiles, manufacturing, patient diagnosis; surgery; treatment and management, the list continues. Nearly all sectors, offices and businesses now use one computer application or the other.  
- 
 A major challenge in Nigeria, particularly in Lagos state, is the shortage of capable computer professionals who will meet the growing needs of the nation and provide the services and expertise required. In the department of computer science, Lagos State University, we believe that it is possible to train home based computer professionals who will be capable of meeting national needs and also compare favourably with computer professionals in the international community. In view of this, the focus of our undergraduate programme is to equip our students with the right skills and knowledge relevant to the growing needs of this dynamic society. The philosophy of the BSc in Computer Science programme is to produce graduates well equipped with skills, knowledge and ability that will get them prepared for careers in industries, research and public sectors both nationally and internationally.  
  
 AIMS
@@ -43,7 +41,6 @@ Students are required to complete registration of courses based on the time and 
 CONTINUOUS ASSESSMENT AND EXAMINATIONS  
 a. Continuous Assessment 
 Continuous Assessment (CA) shall be done through essays, tests, term papers, tutorial exercises, quizzes and home work. Scores from CA shall be 30% of the final marks. 
- 
 b. Examination 
 Final examination shall be conducted on every course at the end of each semester. Scores from the final examination shall be 70% of the final marks. 
  
@@ -52,8 +49,7 @@ Final examination shall be conducted on every course at the end of each semester
  
  
  	 	 	 
-COURSE DESCRIPTION.
- 
+
 CSC 104: SOFTWARE WORKSHOP (3 UNITS) - C 
 Programming language; Basic elements, Data types, Control structures and Program design; Basic I/O concepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory Allocation; Programming exercises using current version of FORTRAN language with emphasis on science application problems. 
  
@@ -74,6 +70,7 @@ Overview of programming languages: History of programming languages, Brief surve
  
 CSC 201: COMPUTER APPLICATION II FOR ARTS, SOCIAL SCIENCES & MANAGEMENT SCIENCES (2 UNITS)  
 Computer appreciations and experience with common application software.  Word processing: Business documents and publications. Documents and publications used in business. MS Word: Open a new documents, format documents, change fonts size and type, insert page numbers, italicise, boldface, conversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking changes, references and bibliography, etc.Spreadsheet -  Excel: Create new spreadsheet, create records related, use formula, macros, format cells, merge cells, split cells, import text files, conversion of spreadsheet files to comma separated files, export as pdf files, charts, and graphs and business applications, etc. Desktop publishing: Business publications (Created using MS Publisher). Use desktop publishing software to create business publications. The internet: Internet Search Tools and Methods & Validate Sites. Tools and methods used for obtaining information from the Internet. Internet search tools and methods.  How to validate, authenticate, and legally use information from the Internet. IE, Mozilla, google. Electronic communication and online safety: Recall components of electronic communication and rules of online safety. Components of electronic communication and rules of online safety.  
+
 CSC 204: INTRODUCTION TO DISCRETE MATHEMATICS (2 UNITS) - C 
 Basic Set Theory: Basic definitions, Relations, Equivalence Relations Partition, Ordered Sets. Boolean Algebra & Lattices, Logic, Graph theory: Directed and Undirected graphs, Graph Isomorphism, Basic Graph Theorems, Matrices; Integer and Real matrices, Boolean Matrices, Matrices mod m, Path matrices. Adjacency Vectors/Matrices: Path adjacency matrix, Numerical & Boolean Adjacency matrices. Applications to counting, Discrete Probability Generating Functions, 
  
@@ -91,6 +88,7 @@ The study of algorithm design with emphasis on efficient algorithms and effectiv
  
 CSC 214: DATABASE DESIGN AND MANAGEMENT  I   (3 UNITS)  - C                   
 Information in the organization, DBMS Technology and concepts, entity relational analysis, the relational data model, structured Query language (SQL), Functional dependency diagrams, Normalization of data, client server database technologies, Data Integrity. What is Data Modeling: Conceptual & physical models, instances, attributes and identifiers, Entity relationship modeling and ERDs, Entity Relationship Diagramming,  Supertypes, Subtypes, and Business Rules, System development life cycle,  Project overview and getting started, Presentation project management, Final presentation components , Presentation. 
+
 CSC 215: SOFTWARE PRACTICE (2 UNITS)  
 General introduction to programming. Structured programming elements, Structured Design principles, abstraction, modality, Stepwise refinement, structured design techniques. Teaching of a Structured Programming Language, Laboratory exercises in a Structured Programming Language. Focus on Visual Basic (VB) programming language. Data types. Events. GUI. IDE. Algorithm development, designing, coding, compilation, debugging and documentation. Real life application development. E.g. games, business, science and Engineering. Students should be encouraged to develop and present any application within their interest areas. 
  
@@ -102,8 +100,10 @@ The relationships between H/L languages and the Computer Architecture that under
  
 CSC 219: DIGITAL LOGIC DESIGN (2 UNITS) - E 
 Introduction to laboratory and review of lab policies; Hands-on experience on topics that are theoretically covered in the digital logic design course, basic logic gate experiments, combinational logic circuits experiments, and sequential logic circuits experiments. The experiments on all topics vary from functional troubleshooting to gate and block level design implementation. The Laboratory experiments should cover the following topics: IC families, TTL electrical characteristics, DeMorgan’s theorem, Logic circuit simplification, Design of combinational circuit, Introduction to flip-flops, Application of flip-flops, Memory systems and Programmable logic. 
+
 CSC 221: FUNDAMENTALS OF DATA STRUCTURES (3 UNITS) - C 
 Elementary data items. Structured data item, array, ordered list, sparse matrices, stacks, queues sequences. Trees, simple sorting and searching techniques. Tree structures and graphs structures; polish notation, storage management and garbage collection. Hash coding, recursive programming, use of macros.  
+
 CSC 222: ASSEMBLY LANGUAGE PROGRAMMING (2 UNITS)  - C 	 	 
 Binary number systems and other systems. Types of encoding, modes of representations of data e.g. integer, floating, package decimal, character etc. Basic structure of the computer. Instruction set and corresponding machine language modes of addressing. Instruction execution and flow of macros, linkages, interfacing, assembling a language program with programs in the other languages, necessary aspect of job control languages. 
  
@@ -152,11 +152,13 @@ The study of functional programming paradigm, procedural versus functional parad
  
 CSC 392: PRACTICAL APPLICATION OF SOFTWARE DEVELOPMENT IN INDUSTRIES  (4 UNITS) - R  
 The main aim of this course is to give students the opportunity to develop a software package of choice. Students are required to use the software principles learnt so far to develop at least one software package related to the industry where they are undergoing SIWES. The software should reflect the understanding of System Development Life Cycle. Any programming language could be used, e.g. java, C++, etc. Students should also demonstrate ability to create and interrogate databases and their components. Each student is required to submit a CD/DVD containing the source code and the binary or compiled version of the software package at the end of SIWES to the department for assessment. The CD should also contain the documentation on how to use the software, system requirements and installation instruction. 
-CSC 394: PRACTICAL APPLICATION OF DATABASE MANAGEMENT IN INDUSTRIES  (4 UNITS) - 
-R 
+
+CSC 394: PRACTICAL APPLICATION OF DATABASE MANAGEMENT IN INDUSTRIES  (4 UNITS) - R 
 Record keeping is very important in business management and every company or business keeps record and accesses such records at one point or the order. A major challenge in record management is the manual approach of record keeping which is commonly used in Nigeria. Computer Scientists attempt to solve this problem by automating record keeping using database management system concepts. The aim of this course is to encourage each student to apply the concepts of database management learnt in the class to the company where SIWES is undertaken. Students are required to create databases using any package of choice, e.g. MySQL, postgreSQL, Microsoft SQL, MS-Access, Oracle, Sybase, Ingress, Informix, etc. They are also required to demonstrate ability to manipulate tables, issue queries, generate/design reports and forms, link tables, etc. Students could also demonstrate front-end programming ability by using programming languages like PHP, VB.NET, Java, etc in managing the database created. Each student is required to submit a CD containing the package developed at the end of SIWES to the department for assessment. The CD should also contain the documentation on how to use the software, system requirements and installation instruction.  
+
 CSC 396: PRACTICAL APPLICATION OF DATA AND INFORMATION PRESENTATION SKILLS  (4 UNITS) - R  
 The most commonly used computer applications in offices are office packages and this is not covered by the university curriculum, though with the understanding that students could acquire the skills during their training. Unfortunately, this never happens and many BSc. Computer Science students leave the university without any knowledge of office applications. The aim of this course is to expose students to office applications, e.g. MS word Excel and powerpoint. Students are required to demonstrate ability to use MS word, Excel and powerpoint or equivalent open office applications. MS Word: Open a new documents, format documents, change fonts size and type, insert page numbers, italicise, boldface, conversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking changes, references and bibliography, etc. Excel: Create new spreadsheet, create records related, use formula, macros, format cells, merge cells, split cells, import text files, conversion of spreadsheet files to comma separated files, export as pdf files, etc. Powerpoint: Create slides and presentations, use different designs, and layouts, slide show, slide timing tool, printing, animations,  inserting tables, figures, clip arts, slides rehearsing and recording, Document Workflow, Electronic Document Management System ,Other Office Applications: Payroll, Pension Manager, Human Resources, Customer Relation Management (CRM), etc. Each student is required to submit an electronic copy in CD form of any document created using office tools listed above.  
+
 CSC 398: STUDENTS’ INDUSTRIAL WORK EXPERIENCE SCHEME (SIWES) (6 UNITS) - C 
 The SIWES is a work based training programme for a period of six months, in the industry, under the follow up of an academic faculty member from the department of Computer Sciences, Lagos state university. SIWES gives students the opportunity to apply the knowledge acquired during the BSc. Programme to the industry and also to identify problems that could be solved using computational techniques. Students must get a formal/written approval from the head of department before proceeding on the training. Periodic reports and a final report must be submitted for evaluation, an oral examination is required. The first report shall be due for submission at the end of the first three weeks of SIWES. The first report which must be sent electronically to the head of department will contain the activities of the industry, how the industry uses Computer Science / information technology, and the roles assigned to the student. The final report shall contain a summative report of the roles of the students within the industry, what was learnt, challenges and recommendations. This course cannot be taken by students not studying for the award of BSc. in Computer Sciences. 
 
@@ -183,6 +185,7 @@ Introduction: The history of knowledge-based expert systems; Characteristics of 
  
 CSC 426: FURTHER STATISTICAL PROCESSING (3 UNITS) - E 
 Topics to include: Multiple Regression Analysis; One-way Analysis Variance. Two-way Analysis of Variance; Generalized inverses and Applications; Statistical Control; use of Packages to solve Statistical problems.  
+
 CSC 427: COMPUTATIONAL SCIENCE AND NUMERICAL ANALYSIS (3 UNITS) - C       
 Numerical Data representation on computer, Computer as a crunching tool, Floating Point number, representation and arithmetic: Error, Stability, Convergence. Theory of computational solution to problem: numerical algorithm formulation and design, numeric software systems. Introduction to use of Matlab and Maple in numerical computation and engineering applications. Emphasis is on the use of software to solve real problems. Iterative solution of non-linear systems (Newton’s method)   Numerical solution of linear systems. Numerical computation of Eigenvalues eigenvectors. Curve fitting; Function approximation. Numerical differentiation and integration (Simpson’s rule, etc). Explicit and Implicit methods. Differential equations (Euler’s Method, etc). Linear Algebra: Finite Differences.  High performance computation  
  
@@ -209,8 +212,8 @@ Introduction to concepts, principles and practice of computer communication netw
  
 CSC 439: STATISTICAL PROCESSING SYSTEMS (3 UNITS) - E 
 Design and Analysis of Sampling Surveys; Statistical Data Compression; 2D, 3D Frequency Table, Points and Interval Estimation; Test of Significance: Test of Hypothesis; Analysis of Categorical Data; Model Validation; x2-Test, Probability Plots. 
+
 CSC 441: PROJECT MANAGEMENT (3 UNITS)  
- 
 Management Concepts. Project organization, teams, methods and tools for project management. Organization constraints on development. Project Planning Objectives, Resources, Project Estimation, 
 Cost Factors, Decomposition Techniques, Estimation Models. Risk Strategies, Risk Identification, Risk Projection, Risk Monitoring and Management. Work Breakdown Structure,Task Allocation/Effort Distribution. Network Diagrams, PERT and Critical PathMethod, Gantt Chart. Scheduling Strategies. Project Tracking, Controlling Progress. Quality measurement. Linear Programming and PERT/CPM applications. System Engineering, Software Development Process, Software Life Cycle, Software Metrics and Measurement. 
  
