@@ -71,6 +71,4 @@ for i, (heading, sentence) in enumerate(sentences):
 
 # Print table
 df = pd.DataFrame(data, columns=['Heading', 'Sentence', 'Cleaned Heading', 'Cleaned Sentence', 'Combined Cleaned Text', 'Corrected Text'])
-# print(df.head(20))
-# print(df.tail(20))
 df.to_csv('data/data2.csv', index=False)

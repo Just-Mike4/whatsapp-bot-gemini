@@ -10,8 +10,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 load_dotenv()
 
-class ENGSM:
-    ISO_639_1 = 'en_core_web_sm'
 
 # Initialize SpaCy, punctuation, stopwords, and LanguageTool
 nlp = spacy.load('en_core_web_sm')
