@@ -53,12 +53,12 @@ def sentence_similarity(sent1,sent2,stopwords=None):
     
     #build the vector for the first sentence
     for w in sent1:
-        if not w in stopwords:
+        if w not in stopwords:
             vector1[all_words.index(w)]+=1
     
     #build the vector for the second sentence
     for w in sent2:
-        if not w in stopwords:
+        if w not in stopwords:
             vector2[all_words.index(w)]+=1
             
     return 1-cosine_distance(vector1,vector2)

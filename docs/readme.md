@@ -1,19 +1,19 @@
                   +------------------+
-                  |   Pretrained     |
-                  |   QA Model       |
+                  |   Gemini         |
+                  |                  |
                   +------------------+
                            |
                            | (Extracted information)
                            |
                   +------------------+
-                  |   Reinforcement  |
-                  |   Learning       |
-                  |   Framework      |
+                  |   Text           |
+                  |   Summarization  |
+                  |                  |
                   +------------------+
                            |
                            | (Generated summary)
                            |
                   +------------------+
                   |   Output         |
-                  |   (Answer/Summary)|
+                  |  (Answer/Summary)|
                   +------------------+

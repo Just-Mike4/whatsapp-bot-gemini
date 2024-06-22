@@ -20,7 +20,7 @@ stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 tool = language_tool_python.LanguageTool('en-US')
 
 # Load the preprocessed data
-df = pd.read_csv('data/data2.csv')
+df = pd.read_csv('data/data.csv')
 
 def text_cleaner(sentence):
     # Ensure the sentence is a string
