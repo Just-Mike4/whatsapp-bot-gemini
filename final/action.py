@@ -1,16 +1,14 @@
-import re
 import numpy as np
 import pandas as pd
 import string
 from spacy.lang.en.stop_words import STOP_WORDS
 import spacy
-import language_tool_python
 
 # Initialize punctuation and stopwords
 punc = string.punctuation
 stopwords = list(STOP_WORDS)
 nlp = spacy.load('en_core_web_sm')
-tool = language_tool_python.LanguageTool('en-US')
+
 
 def text_cleaner(sentence):
     # Ensure the sentence is a string
@@ -33,7 +31,7 @@ def text_cleaner(sentence):
     return cleaned_tokens
 
 # Load the preprocessed data
-with open('data/data.txt', 'r') as file:
+with open('data/data2.txt', 'r') as file:
     text = file.read()
 
 # Preprocess text
@@ -67,7 +65,6 @@ for i, (heading, sentence) in enumerate(sentences):
     data[i, 2] = ' '.join(text_cleaner(heading))  
     data[i, 3] = ' '.join(text_cleaner(sentence))
     data[i, 4] = ' '.join(text_cleaner(heading)) + ' ' + ' '.join(text_cleaner(sentence))  # Combined cleaned text
-    data[i, 5] = tool.correct(heading + ' ' + sentence)  # Correct grammatical errors
 
 # Print table
 df = pd.DataFrame(data, columns=['Heading', 'Sentence', 'Cleaned Heading', 'Cleaned Sentence', 'Combined Cleaned Text', 'Corrected Text'])
