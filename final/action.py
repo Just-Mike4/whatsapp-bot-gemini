@@ -68,4 +68,4 @@ for i, (heading, sentence) in enumerate(sentences):
 
 # Print table
 df = pd.DataFrame(data, columns=['Heading', 'Sentence', 'Cleaned Heading', 'Cleaned Sentence', 'Combined Cleaned Text', 'Corrected Text'])
-df.to_csv('data/data2.csv', index=False)
+df.to_csv('data/data3.csv', index=False)
