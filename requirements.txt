@@ -5,6 +5,3 @@ pandas == 2.1.1
 spacy == 3.7.4
 PyPDF2 == 3.0.1
 
-# pip install PyMuPDF Pillow pytesseract
-# pip install pyocr tesseract-ocr
-sentence_transformers==3.0.1

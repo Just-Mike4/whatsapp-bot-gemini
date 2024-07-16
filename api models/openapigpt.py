@@ -21,7 +21,7 @@ punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
 # Load the preprocessed data
-df = pd.read_csv('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/data_retrival_and_storage/handbook2.csv')
+df = pd.read_csv('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/data_retrival_and_storage/handbook1.csv')
 
 def text_cleaner(sentence):
     # Ensure the sentence is a string
