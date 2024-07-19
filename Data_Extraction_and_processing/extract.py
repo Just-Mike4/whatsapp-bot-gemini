@@ -24,7 +24,6 @@ pdf_file = open(pdf_file_path, 'rb')
 pdf_reader = PyPDF2.PdfReader(pdf_file)
 
 sections = []
-current_section = {"header": "", "paragraphs": []}
 
 for page_num in range(len(pdf_reader.pages)):
 	page = pdf_reader.pages[page_num]
@@ -33,25 +32,30 @@ for page_num in range(len(pdf_reader.pages)):
 	lines = page_text.splitlines()
 
 	i = 0
+	paragraph_lines = []  # Temporary variable to accumulate lines for a paragraph
+	current_header = ""
 	while i < len(lines):
 		line = lines[i]
-		# Peek ahead to see if the next line is also a header or a continuation of a header
 		if i + 1 < len(lines) and (is_header(line) and is_header(lines[i + 1])):
-			# Combine current and next line as they are both headers or continuation of a header
 			line += " " + lines[i + 1]
-			i += 1  # Skip the next line as it's already included
+			i += 1
 
 		if is_header(line):
-			if current_section["header"] or current_section["paragraphs"]:
-				sections.append(current_section)
-				current_section = {"header": "", "paragraphs": []}
-			current_section["header"] = line
+			if current_header or paragraph_lines:
+				# Join accumulated lines with a line break and add as a single paragraph
+				extracted_portion = current_header + '\n' + '\n'.join(paragraph_lines)
+				sections.append({"extracted_portion": extracted_portion})
+				paragraph_lines = []  # Reset for the next paragraph
+				current_header = ""
+			current_header = line
 		elif is_not_empty(line):
-			current_section["paragraphs"].append(line)
+			paragraph_lines.append(line)
 		i += 1
 
-if current_section["header"] or current_section["paragraphs"]:
-	sections.append(current_section)
+	# Add the last accumulated paragraph if any
+	if current_header or paragraph_lines:
+		extracted_portion = current_header + '\n' + '\n'.join(paragraph_lines)
+		sections.append({"extracted_portion": extracted_portion})
 
 pdf_file.close()
 

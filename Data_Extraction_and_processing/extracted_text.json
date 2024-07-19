@@ -1,973 +1,281 @@
 [
     {
-        "header": " REVISED CURRICULUM FOR BSC DEGREE PROGRAMME   THE DEPARTMENT OF COMPUTER SCIENCE  ",
-        "paragraphs": []
-    },
-    {
-        "header": "LAGOS STATE UNIVERSITY  ",
-        "paragraphs": []
-    },
-    {
-        "header": "RATIONALE AND PHILOSOPHY  ",
-        "paragraphs": [
-            "The use of computers is on an historical increase in Nigeria and computers are rapidly becoming parts of ",
-            "our lives. This includ es social networkin g, online shopping, teaching and research, transportation, ",
-            "communication, marketing, to automobiles, manufacturing, patient diagnosis; surgery; treatment and ",
-            "management, the list continues. Nearly all sectors, offices and businesses now use one computer ",
-            "application or the other.  ",
-            "A major challenge in Nigeria, particularly in Lagos state, is the shortage of capable computer ",
-            "professionals who will meet the growing needs of the nation and provide the services and expertise ",
-            "required. In the department of compu ter science, Lagos State University, we believe that it is possible to ",
-            "train home based computer professionals who will be capable of meeting national needs and also ",
-            "compare favourably with computer professionals in the international com munity. In view of this, the ",
-            "focus of our undergraduate programme is to equip our students with the right skills and knowledge ",
-            "relevant to the growing needs of this dynamic society. The philosophy of the BSc in Computer Science ",
-            "programme is to produce grad uates well equipped  with skills, knowledge and ability that will get them ",
-            "prepared for careers in industries, research and public sectors both nationally and internationally.  "
-        ]
-    },
-    {
-        "header": "AIMS  ",
-        "paragraphs": [
-            "In line with the rationale and philosophy of our Bachelor\u2019s programmes, the aims and objectiv es of the ",
-            "BSc. Degree programme include:  ",
-            "1. To produce graduates with skills and knowledge that will allow them to be comparable with ",
-            "peers in the international community.  ",
-            "2. To produce graduates who are capable of applying appropriate scientific principles for  solving ",
-            "problems for the promotion of human well -being.  ",
-            "3. To produce graduates who are well prepared and ready for self -employment and job creatio n as ",
-            "an option to seeking employment in the labour market, hence reducing unemployment and ",
-            "boosting our economy . "
-        ]
-    },
-    {
-        "header": "OBJECTIVES  ",
-        "paragraphs": [
-            "The following are the objectives of the programmes:  ",
-            "1. To teach computer science courses that are relevant to the growing needs of thi s dynamic world.  ",
-            "2. To create an environment conducive for learning and research for our students.  ",
-            "3. To expose stude nts to the application areas of computer science to enable them acquire ",
-            "transferrable skills and knowledge relevant to both academics and industr ies. ",
-            "4. To inculcate in our students presentation skills and increase their awareness on the benefits ",
-            "of public en gagements.  "
-        ]
-    },
-    {
-        "header": "LEARNING OUTCOMES  ",
-        "paragraphs": [
-            "At the end of any of the BSc. Degree programme in computer science, graduates are expected to:  ",
-            " 1. have comprehensive knowledge  of computer science encompassing an understanding of the ",
-            "theoretical foundations and quantitative tools in com puter science, as well as the ability to ",
-            "apply the knowledge to solving problems.  ",
-            "2. be able to demonstrate problem solving capacity using computati onal approach in an ",
-            "innovative and creative way.  ",
-            "3. display comprehensive knowledge of computer science and should  have acquired ",
-            "entrepreneurial skills for self -sufficiency and also to meet the needs of the public and private ",
-            "sectors in Nigeria and beyond.  "
-        ]
-    },
-    {
-        "header": "ADMISSION REQUIREMENTS  ",
-        "paragraphs": [
-            "Admission into BSc. Computer programme is in two categories as follows;  ",
-            "i. Unified Terti ary Matriculation Examination (UTME)  ",
-            "Five (5) O/Level credits including English Language, Mathematics, Physics to form the core subjects ",
-            "with credit in any other two relevant science subjects, at the Senior Secondary School Certificate or ",
-            "its equivalent, a t a maximum of two sittings.  "
-        ]
-    },
-    {
-        "header": "II.         DIRECT ENTRY  ",
-        "paragraphs": [
-            "The direct entry admits prospective students into theLevel of the Degree Programme with a minimum of ",
-            "two \u201cA\u201d level passes, National Diploma Certificate at a minimum of Upper Credit pass in the rel evant subjects.  "
-        ]
-    },
-    {
-        "header": "DURATION OF STUDY  ",
-        "paragraphs": [
-            "a. Students who entered through the UTME route are required to spend minimum ofacademic sessions and ",
-            "maximum ofacademic sessions.  ",
-            "b. Students who entered through the direct entry option are required to spend minimum of academic sessions ",
-            "and maximum ofa cademic sessions.  "
-        ]
-    },
-    {
-        "header": "GRADUATION REQUIREMENTS  ",
-        "paragraphs": [
-            "In addition to the general requirements for graduation in the University\u2019s as contained in the brochure, all students ",
-            "who entered through UTME must pass courses totaling a mini mum ofunits while those who ente red through ",
-            "direct entry are required to pass courses totaling a minimum ofunits.  "
-        ]
-    },
-    {
-        "header": "REGISTRATION OF COURSES  ",
-        "paragraphs": [
-            "Students are required to complete registration of courses based on the time and conditions ",
-            "stipulated by the  University brochure.  "
-        ]
-    },
-    {
-        "header": "CONTINUOUS ASS ESSMENT AND EXAMINATIONS  ",
-        "paragraphs": [
-            "a. Continuous Assessment  ",
-            "Continuous Assessment (CA) shall be done through essays, tests, term papers, tutorial exercises, ",
-            "quizzes and home work. Scores from CA shall be 30% of the final marks.  ",
-            "b. Examination  ",
-            "Final examination shall be conducted on every course at the end of each semester. Scores from the ",
-            "final examination shall be 70% of the final marks.  "
-        ]
-    },
-    {
-        "header": " LEVEL, HAMMATTAN  ",
-        "paragraphs": [
-            "Code  Title Unit Status  ",
-            "CSC Introduction to Computer Science C ",
-            "MAT Algebra C ",
-            "MAT Trigonometry C ",
-            "MAT Coordinate Geometry I E ",
-            "PHY General Physics I C ",
-            "PHY Basic  Heat E ",
-            "PHY Experimental Physics I C ",
-            "BIO Basic Principles of Biology C ",
-            "CHM General Chemistry I C ",
-            "GNSUse of Library C ",
-            "CSC Computer application I for arts, social sciences and ",
-            "management sciences ** ",
-            "Total units   C (22), E (4)  ",
-            "** CSCis for non -computer science students  "
-        ]
-    },
-    {
-        "header": " LEVEL, RAIN  ",
-        "paragraphs": [
-            "Code  Title U S ",
-            "CSC Computer as a Problem Sol ving ToolC ",
-            "CSC Software Workshop C ",
-            "CSC Principles of computer organization C ",
-            "CSC Principles of programming language I C ",
-            "MAT Calculus C ",
-            "MAT Coordinate Geometry II E ",
-            "MAT Introductory Statistics C ",
-            "PHY Basic Optics and Sound E ",
-            "PHY General Physics II C ",
-            "GNS Use of English C ",
-            "Total  units   C (19 ), E (5)  "
-        ]
-    },
-    {
-        "header": " LEVEL, HAMMATTAN  ",
-        "paragraphs": [
-            "Code  Title U S ",
-            "CSC Operating Systems I  C ",
-            "CSC Algorithm development and application C ",
-            "CSC Fundamentals o f digital electronics R ",
-            "CSC Digital Logic design E ",
-            "CSC Fundamentals of Data Structures C ",
-            "CSC Introduction to Information Processing Methods C ",
-            "CSC5 Software Practice I C ",
-            "MAT Mathematical Methods I C ",
-            "MATProbability T heory and Distributions E ",
-            "GNS Lagos and its Environment C ",
-            "CSC Computer application II for arts, social sciences ",
-            "and management sciences ** ",
-            "Total units    C (18 ), E (4), R (1)  ",
-            " ** CSCis for non -computer science students  "
-        ]
-    },
-    {
-        "header": " LEVEL, RAI N ",
-        "paragraphs": [
-            "Code  Title U S ",
-            "CSC Introduction to Discrete Mathematics  C ",
-            "CSC Introduction to hardware laboratory E ",
-            "CSC Computer Architecture C ",
-            "CSC Database Management System I  C ",
-            "CSC Foundation of Sequential Program C ",
-            "CSC Assem bly Programming Language  C ",
-            "CSC Object Oriented Programming I (C++) C ",
-            "MAT Differential Equations E ",
-            "PHY Electricity and Magnetism E  ",
-            "ENT Entrepreneurship Studies I C  ",
-            "CSC28 Software Practice II  ",
-            "Total units    C (17), E (8 ) ",
-            "** CSC8 is for non -computer science students  "
-        ]
-    },
-    {
-        "header": " LEVEL, HAMMATTAN  ",
-        "paragraphs": [
-            "Code  Title U S ",
-            "CSC Object Oriented Programming II (Java) C ",
-            "CSC Compiler Construction C ",
-            "CSC Evolutionary Computation  E ",
-            "CSC Operating Systems II  C ",
-            "CSCDatabase Management System II  C ",
-            "CSC Computer Research Methodology  R ",
-            "CSC Introduction to Formal Language and Automata theory E ",
-            "CSC Systems Analysis and Design C ",
-            "CSC Functional Programming  E ",
-            "ENT Entrepreneurship Stu dies II  C ",
-            "MAT Operations Research E ",
-            "GNS Logic and Philosophy C ",
-            "CSC Computer application III for arts, social sciences and ",
-            "management sciences ** ",
-            "++CSC Practical Application of Database in Industries R ",
-            "++CSC Practical App lication of Data and Information -",
-            "Presentation Skills R ",
-            "++CSC Students' Industrial  Work Experience Scheme "
-        ]
-    },
-    {
-        "header": "(SIWES) R  CSC C ",
-        "paragraphs": [
-            "Total units   C (6), R(12)  ",
-            "++ New courses introduced to enable students meet up with the University policy ",
-            "ofminimum units per semester. Courses are practical applications of computer ",
-            "science to industries.  See course description for more information  "
-        ]
-    },
-    {
-        "header": " LEVEL, HAMMATTAN  ",
-        "paragraphs": [
-            " Title  ",
-            "CSC Social and Professional Issues in Information ",
-            "Technology   U S ",
-            "CSCSoftware Engineering   E ",
-            "CSC Statistical Computing   C ",
-            "CSC Embedded computer systems  E ",
-            "CSC Computational Science   & Numerical Methods E ",
-            "CSC Modelling and Simulation  C ",
-            "CSC Analysis and Design of Digital System  E ",
-            "CSCArtificial Intelligence E ",
-            "CSC Optimization Theory  C ",
-            "CSC Statistical Processing Systems  E ",
-            "CSC1 Human Computer Interface E ",
-            "CSC Net-Centric Computing C ",
-            "CSC Seminar on special topics in computer science E ",
-            "CSC Project Management C ",
-            " ** ",
-            "Total  units   C (14), E (22)  ",
-            "** CSCis for non -computer science students  "
-        ]
-    },
-    {
-        "header": " LEVEL, RAIN  ",
-        "paragraphs": [
-            " Title  ",
-            "CSC Pattern Recognition and Computer vision  U S ",
-            "CSC Introduction to Computer Security E "
-        ]
-    },
-    {
-        "header": " E ",
-        "paragraphs": [
-            "CSC Expert S ystems   and Knowledge Engineering    ",
-            "CSC Further Statistical Processing E ",
-            "CSC Computer Graphics  and Visual Computing E ",
-            "CSC Computer Network/ Communication E ",
-            "CSC Principles of programming language II C ",
-            "CSC Introduction to P HP & MYSQL  C ",
-            "CSC Robotics E ",
-            "CSC Digital Image Processing E ",
-            "CSC Final Year Project E ",
-            "ENT Entrepreneurship II C "
-        ]
-    },
-    {
-        "header": "  C ",
-        "paragraphs": [
-            "Total units    C (12), E (19)  "
-        ]
-    },
-    {
-        "header": "COURSE DESCRIPTION  ",
-        "paragraphs": []
-    },
-    {
-        "header": "CSC 104: SOFTWARE WORKSHOP (3 UNITS) - C ",
-        "paragraphs": [
-            "Programmin g language; Basic elements, Data types, Control structures and Program design; Basic I/O ",
-            "concepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory ",
-            "Allocation; Programming exercises using current version of FORTRAN language  with emphasis on science ",
-            "application problems.  "
-        ]
-    },
-    {
-        "header": "CSC 111: INTRODUCTION TO COMPUTER SCIENCE (3 UNITS) - C  ",
-        "paragraphs": [
-            "Meaning and history of Computer Science. Generations of computers. Computer Hardware: functional ",
-            "components, Modern input and output units. Computer S oftware: Operating Systems, Application ",
-            " Packages. Program Development tools: Flow charts and algorithms. Pr ograms Objects, BASIC or VISUAL ",
-            "BASIC Fundamentals.  "
-        ]
-    },
-    {
-        "header": "CSC 112: PRINCIPLES OF COMPUTER ORGANIZATION (2 UNITS) - C ",
-        "paragraphs": [
-            "Basic concepts of simple machine arc hitecture, major components, functional relationship between the ",
-            "components of the processing UNITS (contro ls, memory and A.L.U) stored program concepts, ",
-            "representation of instruction in computer memory, addressing, instruction cycle. Computer design: ",
-            "organization, design operation and programming assemblers, program loaders and relocation. Levels of ",
-            "machine de sign; gates; register and processor levels. CPU design, instruction sets, von Neumann ",
-            "architecture, multiplication and division algorithms and implem entation, floating point processors. ",
-            "Parallelism, multiprocessor etc. control unit design, hardwired and mi cro-programmed control. Memory ",
-            "design, hierarchical memory design, cache, associative and inter leaved memory.  "
-        ]
-    },
-    {
-        "header": "CSC 113: COMPUTER APPLICATION I FOR A RTS, SOCIAL SCIENCES & MANAGEMENT SCIENCES  (2 UNITS)  ",
-        "paragraphs": [
-            "Meaning and history of Computer Science. Generations of computers. Computer Hardware: functional ",
-            "components, Modern input and output units. Computer Software: Operating Systems, Application ",
-            "Packages. Pr ogram Development tools: Flow charts and algorithms. Introduction to using personal ",
-            "computers hardware and software. Using personal computers as effective problem solving tools for the ",
-            "present and the future. C omputer application areas and technological tr ends. "
-        ]
-    },
-    {
-        "header": "CSC 120: COMPUTER AS A PROBLEM SOLVING TOOL (3 UNITS) - C ",
-        "paragraphs": [
-            "Concept of problem solving. Problem solvin g steps i.e. Problem identification (e.g. in Management, ",
-            "science and Engineering), Definition of users\u2019 needs/requirement, Identification of solution  models, ",
-            "Algorithm design, Coding and Test running, Implementation and documentation. Classes of problems .  ",
-            "Effective approach to problem solving using computer programming  tools i.e. Flowcharts, Algorithm ",
-            "design, Decision Table etc.   The role of algorithm  in problem solving process ). Formulation of alternative ",
-            "solutions to problems and their computer models. Number systems and their representation. Codes, ",
-            "which detection and correction.  "
-        ]
-    },
-    {
-        "header": "CSC 132: PRINCIPLES OF PROGRAMMING LANGUAGES I (2 UNITS) - C ",
-        "paragraphs": [
-            "Overvie w of programming languages: History of programming languages, Brief survey of programming ",
-            "paradigms (Proced ural languages, Object -oriented languages, Functional languages, Declarative \u2013 non-",
-            "algorithmic languages, Scripting languages). Study of the features  of a common and popular ",
-            "programming language. Introducing to language translation: Comparison of interpret ers and compilers ",
-            "etc "
-        ]
-    },
-    {
-        "header": "CSC 201: COMPUTER APPLICATION II FOR ARTS, SOCIAL SCIENCES & MANAGEMENT  SCIENCES (2 UNITS)  ",
-        "paragraphs": [
-            "Computer appreciations and experie nce with common application software.  Word processing: Business ",
-            "documents and publications. Documents and publications used in business. MS Word: Open a new ",
-            "documents, format documents, change fonts size and type, insert page numbers, italicise, boldface,  ",
-            "conversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking ",
-            "changes, references and bibliography, etc.Spreadsheet -  Excel: Create new spreadsheet, create records ",
-            "related, use f ormula, macros, format cells, merg e cells, split cells, import text files, conversion of ",
-            "spreadsheet files to comma separated files, export as pdf files, charts, and graphs and business ",
-            "applications, etc. Desktop publishing: Business publications (Created using MS Publisher). Use desktop ",
-            "publishing software to create business publications. The internet: Internet Search Tools and Methods & ",
-            "Validate Sites. Tools and methods used for obtaining information from the Internet. Internet search tools ",
-            "and methods.  How to validate, authenticate, and  legally use information from the Internet. IE, Mozilla, ",
-            "google. Electronic communication and online safety: Recall components of electronic communication and ",
-            "rules of online safety. Components of electronic communication and rules of online safety.  "
-        ]
-    },
-    {
-        "header": "CSC04: INTRODUCTION TO DISCRETE MATHEMATICS (2 UNITS) - C ",
-        "paragraphs": [
-            "Basic Set Theory: Basic definitions, Relations, Equivalence Relations Partition, Ordered Sets. Boolean ",
-            "Algebra & Lattices, Logic, Graph theory: Directed and Undirected graphs, Graph Isomorphism, Basic ",
-            "Graph Theorems, Matrices; Integer and Real matrices, Bo olean Matrices, Matrices mod m, Path ",
-            "matrices. Adjacency Vectors/Matrices: Path adjacency matrix, Numerical & Boolean Adjacency matrices. ",
-            "Applications to counting, Discrete Probability Generating Funct ions, "
-        ]
-    },
-    {
-        "header": "CSC 205: OPERATING SYSTEM I (3 UNITS) - C ",
-        "paragraphs": [
-            " Introd uction: Definition of Operating systems, history of  Operating systems, Operating system ",
-            "structure -monolithic systems, layered systems, virtual machine, client server model processes: The ",
-            "process model , process state transitions, process control block, ope ration on processes, suspend and ",
-            "resume, Interrupt processing, nucleus, implementation of processes. inter -process communication; Race ",
-            "condition, critical section, mutual exclusion with busy waiting, s leep and wakeup, semaphores, event ",
-            "counters, monitor, m essage passing, equivalence of primitives, producer -consumer relationship, readers ",
-            "and writers problems, dining philosopher `s problem, sleeping barber problem. Process Scheduling; ",
-            "scheduling objective s, scheduling criteria, preemptive vs. non -preemptive, interval timer or interrupting ",
-            "clock,  deadline, FIFO, Round Robin, priorities, multiple queues, shortest job first, shortest remaining ",
-            "time, highest response ratio nest, fair share, policy versus mech anism, process management; job ",
-            "scheduling versus proces s scheduling, process scheduling, process scheduling policies, process ",
-            "scheduling algorithms, interrupts, deadlock, starvation  Real Memory Management early system; single -",
-            "user contiguous scheme, fixed  partition, dynamic partition relocatable dynamic parti tion, relocatable ",
-            "dynamic partition Virtual Memory Management. Resent system; paged memory allocation. demand. ",
-            "page replacement policies.  "
-        ]
-    },
-    {
-        "header": "CSC 208: INTRODUCTION TO COMPUTER HARDWARE LABORATORY (2 UNITS ) - E ",
-        "paragraphs": [
-            "Identify and describe tools used for computer ser vice and explain how to use those tools safely; Identify ",
-            "and describe the various internal components of a computer, assemble a computer system, install an ",
-            "operating system; Describe the purpose of pre ventive maintenance and basic troubleshooting steps; ",
-            "Troubleshoot using system tools and diagnostic software. Hands -on labs and interactive learning tools ",
-            "which help students to develop critical thinking and complex problem -solving skills; Identify and ",
-            "describe the main components of laptops and portable devic es, basic preventive maintenance, and ",
-            "troubleshooting; Identify and describe the differences between printers and scanners, installation and ",
-            "configuration, basic preventive maintenance, and troubleshoo ting. "
-        ]
-    },
-    {
-        "header": "CSC 212: COMPUTER ARCHITECTURE (3 UNITS) - C ",
-        "paragraphs": [
-            "Levels of machine design; gates, register and processor levels. Number systems and computer ",
-            "arithmetic, CPU design, instruction sets, von Neumann architecture, multiplication and division ",
-            "algorithms and i mplementation, floating point processors. Parallelism, multiprocessor etc. control unit ",
-            "design, hardwired and micro -programmed control. Memory design, hierarchical memory design, cache, ",
-            "associative and inter leaved memory.  "
-        ]
-    },
-    {
-        "header": "CSC 213: ALGORITHM DEVELOPMENT A ND APPLICATION (3 UNITS) \u2013 C   ",
-        "paragraphs": [
-            "The study of algorithm d esign with emphasis on efficient algorithms and effective algorithms desi gns ",
-            "techniques and complexity, program design, string processing; recursion, NP completeness and ",
-            "approximating algorithms for NP  \u2013 Complete Problems.  Algorithmic Strategies: Fundamental computing ",
-            "algorithms: Numerical algorithms, sequential and binary search algorithms; sorting algorithms, Binary ",
-            "Search tress, Hash tables, graphs & its representation, Greedy techniques, amortized a nalysis, ",
-            "approximatio n algorithms, cryptographic algorithms, distributed algorithms.  "
-        ]
-    },
-    {
-        "header": "CSC 214: DATABASE DESIGN AND MANAGEMENT  I   (3 UNITS)  - C                   ",
-        "paragraphs": [
-            "Information in the organization, DBMS Technology and concepts, entity relational analysis, the relational ",
-            "data m odel, structured Query language (SQL), Functional dependency diagrams, Normalization of data, ",
-            "client server database technologies, Data Integrity. What is Data Modeling: Conceptual & physical ",
-            "models, instances, attributes and identifie rs, Entity relationsh ip modeling and ERDs, Entity Relationship ",
-            "Diagramming,  Supertypes, Subtypes, and Business Rules, System development life cycle,  Project ",
-            "overview and getting started, Presentation project management, Final presentation components , ",
-            "Presentation.  "
-        ]
-    },
-    {
-        "header": "CSC 215: SOFTWARE PRACTICE (2 UNITS)  ",
-        "paragraphs": [
-            "General introduction to programming. Structured programming elements, Structured Design principles, ",
-            "abstraction, modality, Stepwise refinement, structured design techniques. Teaching of a Structured ",
-            "Program ming Language, Labora tory exercises in a Structured Programming Language. Focus on Visual ",
-            "Basic (VB) programming language. Data types. Events. GUI. IDE. Algorithm development, designing, ",
-            "coding, compilation, debugging and documentation. Real life applicati on development. E.g. games, ",
-            "business, science and Engineering. Students should be encouraged to develop and present any ",
-            "application within their interest areas.  "
-        ]
-    },
-    {
-        "header": "CSC 217: FUNDAMENTAL OF DIGITAL ELECTRONICS (2 UNITS) - R  ",
-        "paragraphs": [
-            " Voltage and current sources. kircho ff\u2019s laws, linearity and super -position. Therein Norton theorems, ",
-            "steady, state response to sinusoidal excitation; impulse response, semi -conductors, bipolar and field ",
-            "effect transistors; Logic circuit design (gates, multivibrators, etc.) using semi -conduc tors materi als, ",
-            "integrated circuits, classification of IC circuits.  "
-        ]
-    },
-    {
-        "header": "CSC 218: FOUNDATION OF SEQUENTIAL PROGRAM (2 UNITS) - C ",
-        "paragraphs": [
-            "The relationships between H/L languages and the Computer Architecture that underlies their ",
-            "implementation: basic machine architectu re, assembl ers specification and translation of P/L Block ",
-            "Structured Languages, parameter passing mechanisms.  "
-        ]
-    },
-    {
-        "header": "CSC 219: DIGITAL LOGIC DESIGN (2 UNITS) - E ",
-        "paragraphs": [
-            "Introduction to laboratory and review of lab policies; Hands -on experience on topics that are ",
-            "theore tically cov ered in the digital logic design course, basic logic gate experiments, combinational logic ",
-            "circuits experiments, and sequential logic circuits experiments. The experiments on all topics vary from ",
-            "functional troubleshooting to gate and block leve l design im plementation. The Laboratory experiments ",
-            "should cover the following topics: IC families, TTL electrical characteristics, DeMorgan\u2019s theorem, Logic ",
-            "circuit simplification, Design of combinational circuit, Introduction to flip -flops, Application o f flip-flops, ",
-            "Memory systems and Programmable logic.  "
-        ]
-    },
-    {
-        "header": "CSC 221: FUNDAMENTALS OF DATA STRUCTURES (3 UNITS) - C ",
-        "paragraphs": [
-            "Elementary data items. Structured data item, array, ordered list, sparse matrices, stacks, queues ",
-            "sequences. Trees, simple sorting and searching techniques. Tree structures and graphs structures; ",
-            "polish notation, storage management and garbage collection. Hash coding, recursive programming, use ",
-            "of macros.   "
-        ]
-    },
-    {
-        "header": "CSC 222: ASSEMBLY LANGUAGE PROGRAMMING (2 UNITS)   - C   ",
-        "paragraphs": [
-            "Binary number systems and other syste ms. Types of encoding, modes of representations of data e.g. ",
-            "integer, floating, package decimal, character etc. Basic structure of the computer. Instruction set and ",
-            "corresponding machine language modes of addressing. Instruction execution and flow of macro s, ",
-            "linkages, interfacing, assembling a language program with programs in the other languages, necessary ",
-            "aspect of job control languages.  "
-        ]
-    },
-    {
-        "header": "CSC 223: INTRODUCTION TO INFORMATION PROCESSING METHODS (2 UNITS) - C ",
-        "paragraphs": [
-            "Information systems, management information syst em, other information retrieval. Overview of file ",
-            "organization, data structure, sorting and merging, construction and maintenance of search trees. ",
-            "Decision tables, structure of decision tables.  "
-        ]
-    },
-    {
-        "header": "CSC 226: OBJECT -ORIENTED PROGRAMMING I, C++ (3 UNITS) - C  ",
-        "paragraphs": [
-            "Introduction to C: Structured Programming elements, structured design principles, abstraction ",
-            "modularity, stepwise refinement, structured design techniques. Teaching of a structured programming ",
-            "language such as C.  Basic object -oriented Programming concepts , objects, inheritance, polymorphism, ",
-            "data abstraction, tools for developing, compiling, interrupting and debugging an object -oriented ",
-            "programming language. Laboratory exercises in an object -oriented programming language. C++  "
-        ]
-    },
-    {
-        "header": "CSC 228: SOFTWARE PRACTICE II  (2 UNITS)  ",
-        "paragraphs": [
-            "Programming language; Basic elements, Data types, Control structures and Program design; Basic I/O ",
-            "concepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory ",
-            "Allocation; Programming exercises using current version of FORTRA N language with emphasis on science ",
-            "application problems. Note that this course is the same as CSC 104, and hence only to be taken ",
-            "by non -computer science students  "
-        ]
-    },
-    {
-        "header": "CSC 301: COMPUTER APPLICATION III FOR ARTS, SOCIAL SCIENCES & MANAGEMENT  SCIENCES  (2 UNITS )  ",
-        "paragraphs": [
-            "Databases: Understand database tables, queries, forms, and reports and business applications. ",
-            "Implementation using Access db. Students should be encourage to create database using access. ",
-            "Powerpoint presentations: Multimedia presentation softwa re. Apply  procedures to use presentation ",
-            "software in business. Business uses of  Presentation software and methods of distribution. Apply ",
-            "procedures to develop multimedia presentations used in business.  Internet banking and  Online ",
-            "transactions component o f Interne t banking. Password Management. Computerization and cashless ",
-            "economy.  Computer virus: Computer Virus, Types of virus, Different Antivirus, Different types of attack ",
-            "malware, spyware, Firewall, updates etc  ",
-            " CSC 303: OBJECT -ORIENTED PROGRAMMING II, Java (3 U NITS) - C  ",
-            "The focus of the course is on Java. Basic OOP Concepts: Classes, Objects, inheritance, polymorphism, ",
-            "Data Abstraction, Tools for developing, Compiling, interpreting and debugging, Java Programs, Java ",
-            "Syntax and data objects, operators. Central f low constructs, objects and classes programming, Arrays, ",
-            "methods. Exceptions, Applets and the Abstract, OLE, Persistence, Window or Unix Toolkit, Laboratory ",
-            "exercises in an OOP Language.  "
-        ]
-    },
-    {
-        "header": "CSC 319: COMPILER CONSTRUCTION (3 UNITS) - C ",
-        "paragraphs": [
-            "Review of com pilers as semblers and interpreters, structure and functional aspects of a typical compiler, ",
-            "syntax semantics and pragatics, functional relationship between lexical analysis, expression analysis and ",
-            "code generation. Internal form of course programme. Use of  a standa rd compiler (FORTRAN). Grammars ",
-            "and languages, recognizers, Top -down and bottom -up language Run -time storage Organization, The use ",
-            "of display in run -time storage Organization. The use of display in run time storage allocation. LR ",
-            "grammars and anal ysers. Co nstruction of LR table. Organisation of symbol tablets. Allocation of storage ",
-            "to run -time variables. Code generation. Optimisation/Translator with systems.  "
-        ]
-    },
-    {
-        "header": "CSC 323: EVOLUTIONARY COMPUTATION (2 UNITS)  - E ",
-        "paragraphs": [
-            "Introduction to Evolutionary Computation.  Genetic Representation, search operators, selection schemes ",
-            "and selection pressure. Fitness Landscapes e.g. Configuration spaces, Properties of landscapes. Local ",
-            "optima; Basins. Multi -population methods. Co -evolution. Niching and Speciation. M ulti-objecti ve ",
-            "Evolutionary Optimisation. Dynamic optimisation Genetic Programming. A case study of Evolutionary ",
-            "methods. Evolving learning -machines, e.g. Neural Networks or Learning Classifier Systems.  "
-        ]
-    },
-    {
-        "header": "CSC 325: OPERATING SYSTEM II (3 UNITS) - C ",
-        "paragraphs": [
-            "File Syst em: Naming, Structure, Types, Access, Attributes, Operating Memory -mapped. Directories: ",
-            "Hierarchical part names, operations, implementation, shared files, disk space management, file system ",
-            "reliability, file system performance. File security: environment, security fla ws, internet worms, security ",
-            "attacks, design principles in security, user authentication. Protection mechanisms: protection domain, ",
-            "Access control lists, capabilities, protection model, covert channels. Input /output : I/O devices, Device ",
-            "controllers, Dire ct Memory  Access, Goals of I/O software, Interrupt handlers, Device drivers, Device ",
-            "Independent I/O software, User -Space I/O software, Disks Hardware, Disk arm scheduling algorithms, ",
-            "error handling, Track -at-a-Time caching, Ram disks, clocks: Clock Hardwa re, clock software. Terminal: ",
-            "Hardware, Memory -Mapped Terminals, Input software, output software. Case study: UNIX, OS/2, ",
-            "MSDOS and Open systems. A study of concurrency and writing concurrent programs, emphasis will be ",
-            "on language constructs us ed to expres s and control concurrency. Concurrent programming techniques ",
-            "an styles. Co -writers, mutual exclusion, semaphones, deadlock, high level concurrency, writer process ",
-            "communication and process structuring, laboratory exercises using a basic concurr ent programs . "
-        ]
-    },
-    {
-        "header": "CSC 327: DATABASE MANAGEMENT SYSTEM II (3 UNITS) - C ",
-        "paragraphs": [
-            "Rational Databases: Mapping conceptual schema to relational Schema; Database Query  Languages ",
-            "(SQL) Concept of Functional dependencies & Multi Valued dependencies. Transaction processing; ",
-            "Distributed databases. Third normal form, Arcs, Hierarchies, and Historical Data, ERD Project ",
-            "Presentation, Drawing Conventions and Generic Modeling, Transforming from Conceptual Model to ",
-            "Physical Model.  "
-        ]
-    },
-    {
-        "header": "CSC 333: COMPUTER RESEARCH METHODOLOGY (1 Unit) - R ",
-        "paragraphs": [
-            "The meaning  and concept of research. Types of research: Quantitative and qualitative. The Information ",
-            "skills: retrieving and recording bibliographic information from manual and computerized sources. ",
-            "Citation.  Intellectual property rights; time m anagement; report wri ting; oral presentation, plagiarism. ",
-            "Scientific writing.  "
-        ]
-    },
-    {
-        "header": "CSC 335: INTRODUCTION TO FORMAL LANGUAGES AND AUTOMATA THEORY (2 UNITS) - E ",
-        "paragraphs": [
-            "Formal Language: formal grammars, parsing, regular languages, context -free languages, automata ",
-            "theory. Finite state automa ta push -down automata. Compiler Construction: Grammars and language, ",
-            "recognizers, top -down and bottom -up production language; run -time. Storage organization. The use of ",
-            "display in run time storage allocation. LR grammars  and analyzers of symbol tables. All ocation of storage ",
-            "to run time variable codes generation. Optimization translator writing systems.  "
-        ]
-    },
-    {
-        "header": "CSC 339: SYSTEMS ANALYSIS AND DESIGN (3 UNITS) - C ",
-        "paragraphs": [
-            "System Concept; System Development Life Cycle Analysis: Fact gatherin g Techniques, data flow ",
-            "diagrams, Pr ocess description data modeling. System Design: Structure Charts, form designs, security, ",
-            "automated Tools for design. Scope of systems analysis . System investigation. Input design output ",
-            " design. Review of design and orga nization of files. Design and docume ntation. Program designs, ",
-            "feasibility study. Systems analysis techniques, management information system, systems ",
-            "implementation and conversion.  "
-        ]
-    },
-    {
-        "header": "CSC 371: FUNCTIONAL PROGRAMMING: (2 Units) - E  ",
-        "paragraphs": [
-            "The study of functional programming paradigm, procedural versus  functional paradigm; efficient function ",
-            "handling, structured memory. Heap. Introduction to Haskell: Data types, operators, Lists, List ",
-            "operations, claases types, ZF -exoression, quicksort, func tion composition, memoisation, fold functions, ",
-            "tuples, zip and curry, mathematical induction . Introduction to Hugs. Basic commands, Loading data, ",
-            "input/output.  "
-        ]
-    },
-    {
-        "header": "CSC 392: PRACTICAL APPLICATION OF SOFTWARE DEVELOPMENT IN INDUSTRIES  (4 UNITS)  - R  ",
-        "paragraphs": [
-            "The main  aim of this course is to give students the opportunity to deve lop a software package of choice. ",
-            "Students are required to use the software principles learnt so far to develop at least one software ",
-            "package related to the industry where they are undergoing S IWES. The software should reflect the ",
-            "understanding of System D evelopment Life Cycle. Any programming language could be used, e.g. java, ",
-            "C++, etc. Students should also demonstrate ability to create and interrogate databases and their ",
-            "components. Each stude nt is required to submit a CD/DVD containing the source code an d the binary or ",
-            "compiled version of the software package at the end of SIWES to the department for assessment. The ",
-            "CD should also contain the documentation on how to use the software, system re quirements and ",
-            "installation instruction.  "
-        ]
-    },
-    {
-        "header": "CSC 394: PRACTICAL APP LICATION OF DATABASE MANAGEMENT IN INDUSTRIES  (4 UNITS) -  R ",
-        "paragraphs": [
-            "Record keeping is very important in business management and every company or business keeps record ",
-            "and accesses such records at one point or the order. A major challenge in record management is t he ",
-            "manual approach of record keeping which is commonly used in Nigeria. Computer Scientists attempt to ",
-            "solve this problem by automating record keeping using database management system concepts.  The ",
-            "aim of this course is to encourage each student to apply t he concepts of database management learnt in ",
-            "the class to the company where SIWES is undertaken. Students are required to create databases using ",
-            "any package of choice, e.g. MySQL, postgreSQL, M icrosoft SQL, MS -Access, Oracle, Sybase, Ingress, ",
-            "Informix, etc . They are also required to demonstrate ability to manipulate tables, issue queries, ",
-            "generate/design reports and forms, link tables, etc. Students could also demonstrate front -end ",
-            "programming a bility by using programming languages like PHP, VB.NET, Java, e tc in managing the ",
-            "database created. Each student is required to submit a CD containing the package developed at the end ",
-            "of SIWES to the department for assessment. The CD should also contain th e documentation on how to ",
-            "use the software, system requirements  and installation instruction.  "
-        ]
-    },
-    {
-        "header": "CSC 396: PRACTICAL APPLICATION OF DATA AND INFORMATION PRESENTATION SKILLS  (4  UNITS) - R  ",
-        "paragraphs": [
-            "The most commonly used computer applications in offices are office pac kages and this is not covered by ",
-            "the university curriculum, tho ugh with the understanding that students could acquire the skills during ",
-            "their training. Unfortunately, this never happens and many BSc. Computer Science students leave the ",
-            "university without a ny knowledge of office applications. The aim of this course is to expose students to ",
-            "office applications, e.g. MS word Excel and powerpoint. Students are required to demonstrate ability to ",
-            "use MS word, Excel and powerpoint or equivalent open office applica tions. MS Word: Open a new ",
-            "documents, format documents, change fonts size and type, insert page numbers, italicise, boldface, ",
-            "conversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking ",
-            "changes, references and bi bliography, etc. Excel: Create new spreadsheet, create records related, use ",
-            "formula, macros, format cells, merge cells, split cells, import text files, conversion of spreadsheet files to ",
-            "comma separated files, export as pdf files, etc. Powerpoint: Create s lides and presentations, use ",
-            "different designs, and layouts, sl ide show, slide timing tool, printing, animations,  inserting tables, ",
-            "figures, clip arts, slides rehearsing and recording, Document Workflow, Electronic Document ",
-            "Management System ,Other Office  Applications: Payroll, Pension Manager, Human Resources, Custo mer ",
-            "Relation Management (CRM), etc. Each student is required to submit an electronic copy in CD form of ",
-            "any document created using office tools listed above.  "
-        ]
-    },
-    {
-        "header": "CSC 398: STUDENTS\u2019 INDUSTRIAL WORK  EXPERIENCE SCHEME (SIWES) (6 UNITS) - C ",
-        "paragraphs": [
-            "The SIWES is a work ba sed training programme for a period of six months, in the industry, under the ",
-            "follow up of an academic faculty member from the department of Computer Sciences, Lagos state ",
-            "university. SIWES gives students the opportunity to apply the knowledge acquired dur ing the BSc. ",
-            "Programme to the industry and also to identify problems that could be solved using computational ",
-            " techniques. Students must get a formal/written approval from the head of department before proceeding ",
-            "on the training. Periodic reports and a fina l report must be submitted for evaluation, an oral examination ",
-            "is required. The first report shall be due for submission at the end of the first three weeks of SIWES. The ",
-            "first report which must be sent electronically to the head of department will contain  the activities of the ",
-            "industry, how the industry uses Computer Science / information technology, and the roles assigned to ",
-            "the student. The final report shall contain a summative report of the roles of the students within the ",
-            "industry, what was learnt, ch allenges and recommendations. This course cannot be taken by students ",
-            "not studying for the award of BSc. in Computer Sciences.  "
-        ]
-    },
-    {
-        "header": "CSC 405: SOCIAL ISSUES IN INFORMATION TECHNOLOGY (2 UNITS) - E ",
-        "paragraphs": [
-            "Ethical issues in the work place, in work -teams and with clients m oral values  generation, culture, ",
-            "heritage and technology im0plications of technology, globally and in Nigeria. Computer abuse, crime ",
-            "detection, legal issues in the IT profession community, global and environmental responsibility ",
-            "professional ethical codes  and personal responsibility.  "
-        ]
-    },
-    {
-        "header": "CSC 413: SOFTWARE ENGINEERING (4 UNITS) - C ",
-        "paragraphs": [
-            "Introduction, Software process, Project planning, Requirement Engineering, System Models: Process ",
-            "Models; DFDS, State -transition, State charts UML, Data Models, ER Models, Object oriented modeling ",
-            "using UML, Software verification and validation, Software Testing. Topics from process improvement; ",
-            "Software re -engineering configuration management; formal specification, software cost - estimation, ",
-            "software Architecture, software pattern s, software reuse and open source development.  "
-        ]
-    },
-    {
-        "header": "CSCPATTERN RECOGNITION AND COMPUTER VISION (3 UNITS) - E ",
-        "paragraphs": [
-            "Image understanding and analysis, study of the underlying image segmentation techniques, object ",
-            "measurements including shape and texture analysis,  feature selection and extraction, classification, ",
-            "multispectral image analysis, 3D imaging, computerized tomography, stereometry and stereoscopic ",
-            "imaging. Image Arithmetic and manipulation. Image format types. MATLAB and image analysis toolbox.  "
-        ]
-    },
-    {
-        "header": "CSC 419: STATISTICAL COMPUTING (3 UNITS) - E ",
-        "paragraphs": [
-            "Problems Associated with analysis of stochastic problems and statistical analysis by Applied Linear ",
-            "Models: Computational aspects of multiple models; Programming for Statistical Problems and Statistical ",
-            "Packages.  "
-        ]
-    },
-    {
-        "header": "CSC0: INTRODUCTION TO COMPUTER SECURITY (3 UNITS) -C  ",
-        "paragraphs": [
-            "Private and public -key cryptography; block ciphers, data encryption, authentication, key distribution and ",
-            "certification, pseudorandom number generators, design and analysis of protocols, zero -knowledge ",
-            "proofs, and advanced protocols. Emphasizes rigorous mathematical approach including formal definitions ",
-            "of security goals and proofs of protocol security.  Basic cryptography, security/threat analysis, access ",
-            "control, auditing, security models, distributed sys tems security, and theory behind common attack and ",
-            "defense techniques. The class will go over formal models as well as the bits and bytes of security ",
-            "exploits.  "
-        ]
-    },
-    {
-        "header": "CSC 421: EMBEDDED COMPUTER SYSTEMS (2 UNITS) - E ",
-        "paragraphs": [
-            "Introduction to embedded Computing; embedded c omputing hardware: Processors, DSPs, SOCs, ",
-            "Peripherals; Communications; Software: Real -Time O/Ss, Scheduling; Design Methodology; Hardware ",
-            "Programming; FP GA Programming. Embedded computer systems are found everywhere -- cellular ",
-            "phones, cars, VCRs, camera s, and all kinds of consumer electronics. The huge numbers and new added ",
-            "complexity requires new technologies and design approaches. The goal of this course is to develop a ",
-            "comprehensive understanding of the technologies behind the embedded systems. The st udents develop ",
-            "an appreciation of the underlying technology capabilities and limitations of the hardware, software ",
-            "components for building embedded systems. The students also learn new approaches for building ",
-            "embedded systems and will gain experience on ac tual system design through several hands -on ",
-            "experiments.  "
-        ]
-    },
-    {
-        "header": "CSC 424: EXPERT SYSTEMS AND KNOWLEDGE ENGINEERING (2 UNITS) - E  ",
-        "paragraphs": [
-            "Introduction: The history of knowledge -based expert systems; Characteristics of current expert systems; ",
-            "and Basic concepts for building  expert systems. Building and Expert System: The architecture of expert ",
-            "systems; Constructing an expert system; and Tools  for building expert systems. Evaluating an Expert ",
-            "System: Reasoning about reasoning; and Issues and case studies. Language and Tools f or Knowledge ",
-            "Engineering. A Case Study in Knowledge Engineering  "
-        ]
-    },
-    {
-        "header": "CSC 426: FURTHER STATISTICAL PROCESSING (3 UNITS) - E ",
-        "paragraphs": [
-            " Topics to include: Multiple Regression Analysis; One -way Analysis Variance. Two -way Analysis of ",
-            "Variance; Generalized inverses and Appli cations; Statistical Control; use of Packages to solve Statistical ",
-            "problems.  "
-        ]
-    },
-    {
-        "header": "CSC 427: COMPUTATIONAL SCIENCE AND NUMERICA L ANALYSIS (3 UNITS) - C       ",
-        "paragraphs": [
-            "Numerical Data representation on computer, Computer as a crunching tool, Floating Point number, ",
-            "represen tation and arithmetic: Error, Stability, Convergence. Theory of computational solution to ",
-            "problem: numerical algorithm formulation and design, numeric s oftware systems. Introduction to use of ",
-            "Matlab and Maple in numerical computation and engineering applic ations. Emphasis is on the use of ",
-            "software to solve real problems. Iterative solution of non -linear systems (Newton\u2019s method)   Numerical ",
-            "solution of li near systems. Numerical computation of Eigenvalues eigenvectors. Curve fitting; Function ",
-            "approximation. Numerical differentiation and integration (Simpson\u2019s rule, etc). Explicit and Implicit ",
-            "methods. Differential equations (Euler\u2019s Method, etc). Linear Alg ebra: Finite Differences.  High ",
-            "performance computation  "
-        ]
-    },
-    {
-        "header": "CSC 428: COMPUTER GRAPHICS AND VISUAL COMPUTIN G (2 UNITS) - E ",
-        "paragraphs": [
-            "Hardware aspect: Plotters microfilm, display, graphic tables, light pens, other graphical input aids, ",
-            "facsimile and its problems. Refres h/display, refresh buggers, charging images light -pen interaction. Two ",
-            "and three dimensional transformat ions, perspective, chipping algorithms. Amode\u2019s method, shading, ",
-            "data reduction for graphical input, introduction of character recognition. Curve synthe sis and fitting. ",
-            "Controlling, wing, structures, versus doubly linked bits hierarchical data structures, organization for ",
-            "interactive graphics.   "
-        ]
-    },
-    {
-        "header": "CSC 429: MODELING AND SIMULATION (3 UNITS) - E     ",
-        "paragraphs": [
-            "The concepts and techniques used in modeling and simulation methodology and a suitable simulation ",
-            "language (SIMPSCRIPT, etc.), inventory control product scheduling,  quality control, industrial simulation ",
-            "and forecast, modeling generation of random variables.  "
-        ]
-    },
-    {
-        "header": "CSC 431: ANALYSIS AND DESIGN OF DIGITAL SYSTEM (3 UNITS)  - E  ",
-        "paragraphs": [
-            "Information; representation and manipulation, coding logic functions, Boolean algebra, logic gates  ",
-            "combination circuits design, logarithmic methods of synthesis and minimization of combination circuits ",
-            "design, logarithmic methods of synthesis and min imization of combination circuits memories including ",
-            "latch, flip -flop, shift heartier, RAM and ROM synth esis of synchronous sequential networks. ",
-            "Asynchronous sequential logic.  "
-        ]
-    },
-    {
-        "header": "CSC 432: PRINCIPLES OF PROGRAMMING LANGUAGES II (3 UNITS) - C ",
-        "paragraphs": [
-            "The effects of sc ale on programming methodology; Language Description: Syntactic Structure ",
-            "(Expression notations, abstrac t Syntax Tree, Lexical Syntax, Grammars for Expressions, Variants of ",
-            "Grammars), Language Semantics (Informal semantics, Overview of formal semantics, De notation ",
-            "semantics, Axiomatic semantics, Operational semantics); Declarations and types: The concept of types, ",
-            "Declaration models (binding, visibility, scope, and lifetime), Overview of type -checking, Garbage ",
-            "collection; Abstraction mechanisms: Procedures,  function, and iterations as abstraction mechanisms, ",
-            "Parameterization mechanisms (reference vs. value), Activation records and storage management, Type ",
-            "parameters and parameterized types, Modules in programming languages; Object oriented language ",
-            "paradigm;  Functional and logic language paradigms.  "
-        ]
-    },
-    {
-        "header": "CSC 433: OPTIMIZATION THEORY (3 UNITS) - E ",
-        "paragraphs": [
-            "Queuing theory, s imulation models, inventory models, forecasting, non -linear programming goal ",
-            "programming, calculus of variation, integer programming, quadratic programm ing, decision theory.  "
-        ]
-    },
-    {
-        "header": "CSC 437: ARTIFICIAL INTELLIGENCE (3 UNITS) - C     ",
-        "paragraphs": [
-            "Introduction to Artificial Int elligence, understanding natural languages, knowledge representation, ",
-            "export system pattern recognition, the language HLSP and PROLOG. Intelligent agents  ; Problem solving ",
-            "as search  : Search strategies  : Breath first, Depth -first, uniform cost, dept constr aint satisfaction ",
-            "Problems, Backtracking search for CSP, Constraint Propagation, Local search for CSPs. Logic -based ",
-            "knowledge representation.  "
-        ]
-    },
-    {
-        "header": "CSCCOMPUTER NETWORK AND DATA COMMUNICATION (3 UNITS) - E ",
-        "paragraphs": [
-            "Introduction to concepts, principles and practice o f computer communication networks with examples ",
-            "from existing architectures, protocols, and standards. Layering and the OSL model, switching, local, ",
-            "metropolitan, and wide area networks, data grams and vir tual circuits, mounting and congestion control, ",
-            "internet working. Introduction, wares, Fourier analysis, measure of communication, channel ",
-            "characteristics, transmission media, noise and distortion, modulation and demodulation, multiplexing, ",
-            " TDM FDM and FCM  Parallel and serial transmission (synchronous Vs a synchronous). Bus structures and ",
-            "loop systems, computer network Examples and design consideration, data switching principles broadcast ",
-            "techniques, network structure for packet switching, protocols, descrip tion of network e.g. ARPANET, etc.  "
-        ]
-    },
-    {
-        "header": "CSC 439: STATIS TICAL PROCESSING SYSTEMS (3 UNITS) - E ",
-        "paragraphs": [
-            "Design and Analysis of Sampling Surveys; Statistical Data Compression; 2D, 3D Frequency Table, Points ",
-            "and Interval Estimation; Test of Significance: Test of Hypothesi s; Analysis of Categorical Data; Model ",
-            "Validation; x2-Test, Probability Plots.  "
-        ]
-    },
-    {
-        "header": "CSC 441: PROJECT MANAGEMENT (3 UNITS)  ",
-        "paragraphs": [
-            "Management Concepts. Project organiz ation, teams, methods and tools for project management. ",
-            "Organization constraints on development. Proj ect Planning Objectives, Resources, Project Estimat ion, ",
-            "Cost Factors, Decomposition Techniques, Estimation Models. Risk Strategies, Risk Identification, Risk ",
-            "Projection, Risk Monitoring and Management. Work Breakdown Structure,Task Allocation/Effort ",
-            "Distri bution. Network Diagrams, PERT and Critical PathMet hod, Gantt Chart. Scheduling Strategies. ",
-            "Project Tracking, Controlling Progress. Quality measurement. Linear Programming and PERT/CPM ",
-            "applications. System Engineering, Software Development Process, Softwar e Life Cycle, Software Metrics ",
-            "and Measurement.  "
-        ]
-    },
-    {
-        "header": "CSC 451: HUMAN COMPUTER INTERFACE (HCI) (2 UNITS) - C ",
-        "paragraphs": [
-            "Foundations of HCI, Principles of GUI, GUI toolkits; Human -centred software evaluation and ",
-            "development; GUI design and programming.  "
-        ]
-    },
-    {
-        "header": "CSC 442: INTRODUCTION TO PHP AND MYSQL (2 UNITS) - E ",
-        "paragraphs": [
-            "Meaning of a Web Database Application. The database, the application: Moving data in and out of the ",
-            "database, MYSQL, Communicating with the MYSQL \u2013 How MYSQL \u2013works, Advantages of PHP, How PHP ",
-            "works, MYSQL - and P HP, the Perfect Pair, Advantages of the relationship, How MYS QL \u2013 and PHP work ",
-            "together, keeping Up with PHP and MYSQL Changes.  "
-        ]
-    },
-    {
-        "header": "CSC 444: MANAGEMENT INFORMATION SYSTEM  ",
-        "paragraphs": [
-            "An introduction to Information Systems and their strategic role in business. Types of In formation ",
-            "Systems, organizational requirements, systems devel opment strategies, Decision Support Systems, data ",
-            "and information management, and information systems management, control and implementation.  "
-        ]
-    },
-    {
-        "header": "CSC 452: ROBOTICS: (2 UNITS) - E ",
-        "paragraphs": [
-            "Mathematical modeling of robot mechanisms and the analysis methods used to desig n control laws for ",
-            "these mechanisms. Homogeneous transformations and relative coordinate frames. Topics include: ",
-            "kinematics of robot manipulators, Robot velocities and static f orces, manipulator dynamics, reference ",
-            "trajectory generation, control theory app lied to robot manipulators, and tele -operation control  "
-        ]
-    },
-    {
-        "header": "CSC 454: DIGITAL IMAGE PROCESSING (2 UNITS) - E ",
-        "paragraphs": [
-            "Digitization and coding of images, characterization and representation o f digital images in spatial and ",
-            "frequency domains, image restoration, perception  and enhancement, point -, algebraic -, and geometric ",
-            "operations, discrete image transforms, image filtering, image reconstruction, pattern recognition ",
-            "principles: segmentation a nd object measurement.  "
-        ]
-    },
-    {
-        "header": "CSC 455: NET -CENTRIC COMPUTING (3 UNITS) - E ",
-        "paragraphs": [
-            "Distribute d Computing, Mobile & Wireless computing, Network Security; Client/Server Computing. ",
-            "Introduction to the WWW, HTML - document structure Images, links, maps, tables, frames, form s, ",
-            "Protocols & server technology - HTTP, TCP/IP, MIME, URLs, CGI JavaScript - syntax, DOM, forms ",
-            "processing, common tasks style sheets - fundamentals, CSS positioning, web design and usability, ",
-            "Introduction to XML - syntax, DTDs XSL, XHTML, Multimedia, audio,  video animation, multimedia server  ",
-            "and protocol technology, Web development to ols-Editors, site management tools.  "
-        ]
-    },
-    {
-        "header": "CSC 497: SEMINAR ON SPECIAL TOPICS IN COMPUTER SCIENCE (2 UNITS) - C ",
-        "paragraphs": [
-            "Students are required to choose topics on special topics in computer science under the guidance of a ",
-            "supervisor. Students are required to submit the bond form of the seminar to the department upon ",
-            "completion.  Topics could include, but not limited to,  any of the following: Performance Evaluation of ",
-            "Computer Systems, Concurrent Programming, Pattern Recognition, Distributed Database, Programming ",
-            "Environm ents, High -Level Language and Data flow Architectures, Computer Vision, Planning, Natural and ",
-            "Spoken Langua ge Understanding, Temporal Logics, Supercomputing VLSI Design, Human Computer ",
-            "Interaction and so on.    "
-        ]
-    },
-    {
-        "header": "CSC 498: FINAL YEAR PROJECT (4 UNITS) - C  ",
-        "paragraphs": [
-            "This is an independent project where students are required to carry out a research. A project topic to be ",
-            "chosen by each student under the guidance of the supervisor. Students are required to submit the bond ",
-            "form of the project to the department upon comple tion. "
-        ]
+        "extracted_portion": " REVISED CURRICULUM FOR BSC DEGREE PROGRAMME   THE DEPARTMENT OF COMPUTER SCIENCE  \n"
+    },
+    {
+        "extracted_portion": "RATIONALE AND PHILOSOPHY  \nThe use of computers is on an historical increase in Nigeria and computers are rapidly becoming parts of \nour lives. This includ es social networkin g, online shopping, teaching and research, transportation, \ncommunication, marketing, to automobiles, manufacturing, patient diagnosis; surgery; treatment and \nmanagement, the list continues. Nearly all sectors, offices and businesses now use one computer \napplication or the other.  \nA major challenge in Nigeria, particularly in Lagos state, is the shortage of capable computer \nprofessionals who will meet the growing needs of the nation and provide the services and expertise \nrequired. In the department of compu ter science, Lagos State University, we believe that it is possible to \ntrain home based computer professionals who will be capable of meeting national needs and also \ncompare favourably with computer professionals in the international com munity. In view of this, the \nfocus of our undergraduate programme is to equip our students with the right skills and knowledge \nrelevant to the growing needs of this dynamic society. The philosophy of the BSc in Computer Science \nprogramme is to produce grad uates well equipped  with skills, knowledge and ability that will get them \nprepared for careers in industries, research and public sectors both nationally and internationally.  "
+    },
+    {
+        "extracted_portion": "AIMS  \nIn line with the rationale and philosophy of our Bachelor\u2019s programmes, the aims and objectiv es of the \nBSc. Degree programme include:  \n1. To produce graduates with skills and knowledge that will allow them to be comparable with \npeers in the international community.  \n2. To produce graduates who are capable of applying appropriate scientific principles for  solving \nproblems for the promotion of human well -being.  \n3. To produce graduates who are well prepared and ready for self -employment and job creatio n as \nan option to seeking employment in the labour market, hence reducing unemployment and \nboosting our economy . "
+    },
+    {
+        "extracted_portion": "OBJECTIVES  \nThe following are the objectives of the programmes:  \n1. To teach computer science courses that are relevant to the growing needs of thi s dynamic world.  \n2. To create an environment conducive for learning and research for our students.  \n3. To expose stude nts to the application areas of computer science to enable them acquire \ntransferrable skills and knowledge relevant to both academics and industr ies. \n4. To inculcate in our students presentation skills and increase their awareness on the benefits \nof public en gagements.  "
+    },
+    {
+        "extracted_portion": "LEARNING OUTCOMES  \nAt the end of any of the BSc. Degree programme in computer science, graduates are expected to:  "
+    },
+    {
+        "extracted_portion": "\n 1. have comprehensive knowledge  of computer science encompassing an understanding of the \ntheoretical foundations and quantitative tools in com puter science, as well as the ability to \napply the knowledge to solving problems.  \n2. be able to demonstrate problem solving capacity using computati onal approach in an \ninnovative and creative way.  \n3. display comprehensive knowledge of computer science and should  have acquired \nentrepreneurial skills for self -sufficiency and also to meet the needs of the public and private \nsectors in Nigeria and beyond.  "
+    },
+    {
+        "extracted_portion": "ADMISSION REQUIREMENTS  \nAdmission into BSc. Computer programme is in two categories as follows;  \ni. Unified Terti ary Matriculation Examination (UTME)  \nFive (5) O/Level credits including English Language, Mathematics, Physics to form the core subjects \nwith credit in any other two relevant science subjects, at the Senior Secondary School Certificate or \nits equivalent, a t a maximum of two sittings.  "
+    },
+    {
+        "extracted_portion": "II.         DIRECT ENTRY  \nThe direct entry admits prospective students into theLevel of the Degree Programme with a minimum of \ntwo \u201cA\u201d level passes, National Diploma Certificate at a minimum of Upper Credit pass in the rel evant subjects.  "
+    },
+    {
+        "extracted_portion": "DURATION OF STUDY  \na. Students who entered through the UTME route are required to spend minimum ofacademic sessions and \nmaximum ofacademic sessions.  \nb. Students who entered through the direct entry option are required to spend minimum of academic sessions \nand maximum ofa cademic sessions.  "
+    },
+    {
+        "extracted_portion": "GRADUATION REQUIREMENTS  \nIn addition to the general requirements for graduation in the University\u2019s as contained in the brochure, all students \nwho entered through UTME must pass courses totaling a mini mum ofunits while those who ente red through \ndirect entry are required to pass courses totaling a minimum ofunits.  "
+    },
+    {
+        "extracted_portion": "REGISTRATION OF COURSES  \nStudents are required to complete registration of courses based on the time and conditions \nstipulated by the  University brochure.  "
+    },
+    {
+        "extracted_portion": "CONTINUOUS ASS ESSMENT AND EXAMINATIONS  \na. Continuous Assessment  \nContinuous Assessment (CA) shall be done through essays, tests, term papers, tutorial exercises, \nquizzes and home work. Scores from CA shall be 30% of the final marks.  \nb. Examination  \nFinal examination shall be conducted on every course at the end of each semester. Scores from the \nfinal examination shall be 70% of the final marks.  "
+    },
+    {
+        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title Unit Status  \nCSC Introduction to Computer Science C \nMAT Algebra C \nMAT Trigonometry C \nMAT Coordinate Geometry I E \nPHY General Physics I C \nPHY Basic  Heat E \nPHY Experimental Physics I C \nBIO Basic Principles of Biology C \nCHM General Chemistry I C \nGNSUse of Library C \nCSC Computer application I for arts, social sciences and \nmanagement sciences ** \nTotal units   C (22), E (4)  \n** CSCis for non -computer science students  "
+    },
+    {
+        "extracted_portion": " LEVEL, RAIN  \nCode  Title U S \nCSC Computer as a Problem Sol ving ToolC \nCSC Software Workshop C \nCSC Principles of computer organization C \nCSC Principles of programming language I C \nMAT Calculus C \nMAT Coordinate Geometry II E \nMAT Introductory Statistics C \nPHY Basic Optics and Sound E \nPHY General Physics II C \nGNS Use of English C \nTotal  units   C (19 ), E (5)  "
+    },
+    {
+        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title U S \nCSC Operating Systems I  C \nCSC Algorithm development and application C \nCSC Fundamentals o f digital electronics R \nCSC Digital Logic design E \nCSC Fundamentals of Data Structures C \nCSC Introduction to Information Processing Methods C \nCSC5 Software Practice I C \nMAT Mathematical Methods I C \nMATProbability T heory and Distributions E \nGNS Lagos and its Environment C \nCSC Computer application II for arts, social sciences \nand management sciences ** \nTotal units    C (18 ), E (4), R (1)  "
+    },
+    {
+        "extracted_portion": "\n ** CSCis for non -computer science students  "
+    },
+    {
+        "extracted_portion": " LEVEL, RAI N \nCode  Title U S \nCSC Introduction to Discrete Mathematics  C \nCSC Introduction to hardware laboratory E \nCSC Computer Architecture C \nCSC Database Management System I  C \nCSC Foundation of Sequential Program C \nCSC Assem bly Programming Language  C \nCSC Object Oriented Programming I (C++) C \nMAT Differential Equations E \nPHY Electricity and Magnetism E  \nENT Entrepreneurship Studies I C  \nCSC28 Software Practice II  \nTotal units    C (17), E (8 ) \n** CSC8 is for non -computer science students  "
+    },
+    {
+        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title U S \nCSC Object Oriented Programming II (Java) C \nCSC Compiler Construction C \nCSC Evolutionary Computation  E \nCSC Operating Systems II  C \nCSCDatabase Management System II  C \nCSC Computer Research Methodology  R \nCSC Introduction to Formal Language and Automata theory E \nCSC Systems Analysis and Design C \nCSC Functional Programming  E \nENT Entrepreneurship Stu dies II  C \nMAT Operations Research E \nGNS Logic and Philosophy C \nCSC Computer application III for arts, social sciences and \nmanagement sciences ** \n++CSC Practical Application of Database in Industries R \n++CSC Practical App lication of Data and Information -\nPresentation Skills R \n++CSC Students' Industrial  Work Experience Scheme "
+    },
+    {
+        "extracted_portion": "(SIWES) R  CSC C \nTotal units   C (6), R(12)  \n++ New courses introduced to enable students meet up with the University policy \nofminimum units per semester. Courses are practical applications of computer \nscience to industries.  See course description for more information  "
+    },
+    {
+        "extracted_portion": " LEVEL, HAMMATTAN  \n Title  "
+    },
+    {
+        "extracted_portion": "\nCSC Social and Professional Issues in Information \nTechnology   U S \nCSCSoftware Engineering   E \nCSC Statistical Computing   C \nCSC Embedded computer systems  E \nCSC Computational Science   & Numerical Methods E \nCSC Modelling and Simulation  C \nCSC Analysis and Design of Digital System  E \nCSCArtificial Intelligence E \nCSC Optimization Theory  C \nCSC Statistical Processing Systems  E \nCSC1 Human Computer Interface E \nCSC Net-Centric Computing C \nCSC Seminar on special topics in computer science E \nCSC Project Management C \n ** \nTotal  units   C (14), E (22)  \n** CSCis for non -computer science students  "
+    },
+    {
+        "extracted_portion": " LEVEL, RAIN  \n Title  \nCSC Pattern Recognition and Computer vision  U S \nCSC Introduction to Computer Security E "
+    },
+    {
+        "extracted_portion": " E \nCSC Expert S ystems   and Knowledge Engineering    \nCSC Further Statistical Processing E \nCSC Computer Graphics  and Visual Computing E \nCSC Computer Network/ Communication E \nCSC Principles of programming language II C \nCSC Introduction to P HP & MYSQL  C \nCSC Robotics E \nCSC Digital Image Processing E \nCSC Final Year Project E \nENT Entrepreneurship II C "
+    },
+    {
+        "extracted_portion": "  C \nTotal units    C (12), E (19)  "
+    },
+    {
+        "extracted_portion": "CSC 104: SOFTWARE WORKSHOP (3 UNITS) - C \nProgrammin g language; Basic elements, Data types, Control structures and Program design; Basic I/O \nconcepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory \nAllocation; Programming exercises using current version of FORTRAN language  with emphasis on science \napplication problems.  "
+    },
+    {
+        "extracted_portion": "CSC 111: INTRODUCTION TO COMPUTER SCIENCE (3 UNITS) - C  \nMeaning and history of Computer Science. Generations of computers. Computer Hardware: functional \ncomponents, Modern input and output units. Computer S oftware: Operating Systems, Application "
+    },
+    {
+        "extracted_portion": "\n Packages. Program Development tools: Flow charts and algorithms. Pr ograms Objects, BASIC or VISUAL \nBASIC Fundamentals.  "
+    },
+    {
+        "extracted_portion": "CSC 112: PRINCIPLES OF COMPUTER ORGANIZATION (2 UNITS) - C \nBasic concepts of simple machine arc hitecture, major components, functional relationship between the \ncomponents of the processing UNITS (contro ls, memory and A.L.U) stored program concepts, \nrepresentation of instruction in computer memory, addressing, instruction cycle. Computer design: \norganization, design operation and programming assemblers, program loaders and relocation. Levels of \nmachine de sign; gates; register and processor levels. CPU design, instruction sets, von Neumann \narchitecture, multiplication and division algorithms and implem entation, floating point processors. \nParallelism, multiprocessor etc. control unit design, hardwired and mi cro-programmed control. Memory \ndesign, hierarchical memory design, cache, associative and inter leaved memory.  "
+    },
+    {
+        "extracted_portion": "CSC 113: COMPUTER APPLICATION I FOR A RTS, SOCIAL SCIENCES & MANAGEMENT SCIENCES  (2 UNITS)  \nMeaning and history of Computer Science. Generations of computers. Computer Hardware: functional \ncomponents, Modern input and output units. Computer Software: Operating Systems, Application \nPackages. Pr ogram Development tools: Flow charts and algorithms. Introduction to using personal \ncomputers hardware and software. Using personal computers as effective problem solving tools for the \npresent and the future. C omputer application areas and technological tr ends. "
+    },
+    {
+        "extracted_portion": "CSC 120: COMPUTER AS A PROBLEM SOLVING TOOL (3 UNITS) - C \nConcept of problem solving. Problem solvin g steps i.e. Problem identification (e.g. in Management, \nscience and Engineering), Definition of users\u2019 needs/requirement, Identification of solution  models, \nAlgorithm design, Coding and Test running, Implementation and documentation. Classes of problems .  \nEffective approach to problem solving using computer programming  tools i.e. Flowcharts, Algorithm \ndesign, Decision Table etc.   The role of algorithm  in problem solving process ). Formulation of alternative \nsolutions to problems and their computer models. Number systems and their representation. Codes, \nwhich detection and correction.  "
+    },
+    {
+        "extracted_portion": "CSC 132: PRINCIPLES OF PROGRAMMING LANGUAGES I (2 UNITS) - C \nOvervie w of programming languages: History of programming languages, Brief survey of programming \nparadigms (Proced ural languages, Object -oriented languages, Functional languages, Declarative \u2013 non-\nalgorithmic languages, Scripting languages). Study of the features  of a common and popular \nprogramming language. Introducing to language translation: Comparison of interpret ers and compilers \netc "
+    },
+    {
+        "extracted_portion": "CSC 201: COMPUTER APPLICATION II FOR ARTS, SOCIAL SCIENCES & MANAGEMENT  SCIENCES (2 UNITS)  \nComputer appreciations and experie nce with common application software.  Word processing: Business \ndocuments and publications. Documents and publications used in business. MS Word: Open a new \ndocuments, format documents, change fonts size and type, insert page numbers, italicise, boldface,  \nconversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking \nchanges, references and bibliography, etc.Spreadsheet -  Excel: Create new spreadsheet, create records \nrelated, use f ormula, macros, format cells, merg e cells, split cells, import text files, conversion of \nspreadsheet files to comma separated files, export as pdf files, charts, and graphs and business \napplications, etc. Desktop publishing: Business publications (Created using MS Publisher). Use desktop \npublishing software to create business publications. The internet: Internet Search Tools and Methods & \nValidate Sites. Tools and methods used for obtaining information from the Internet. Internet search tools \nand methods.  How to validate, authenticate, and  legally use information from the Internet. IE, Mozilla, \ngoogle. Electronic communication and online safety: Recall components of electronic communication and \nrules of online safety. Components of electronic communication and rules of online safety.  "
+    },
+    {
+        "extracted_portion": "CSC04: INTRODUCTION TO DISCRETE MATHEMATICS (2 UNITS) - C \nBasic Set Theory: Basic definitions, Relations, Equivalence Relations Partition, Ordered Sets. Boolean \nAlgebra & Lattices, Logic, Graph theory: Directed and Undirected graphs, Graph Isomorphism, Basic \nGraph Theorems, Matrices; Integer and Real matrices, Bo olean Matrices, Matrices mod m, Path \nmatrices. Adjacency Vectors/Matrices: Path adjacency matrix, Numerical & Boolean Adjacency matrices. \nApplications to counting, Discrete Probability Generating Funct ions, "
+    },
+    {
+        "extracted_portion": "CSC 205: OPERATING SYSTEM I (3 UNITS) - C \n"
+    },
+    {
+        "extracted_portion": "\n Introd uction: Definition of Operating systems, history of  Operating systems, Operating system \nstructure -monolithic systems, layered systems, virtual machine, client server model processes: The \nprocess model , process state transitions, process control block, ope ration on processes, suspend and \nresume, Interrupt processing, nucleus, implementation of processes. inter -process communication; Race \ncondition, critical section, mutual exclusion with busy waiting, s leep and wakeup, semaphores, event \ncounters, monitor, m essage passing, equivalence of primitives, producer -consumer relationship, readers \nand writers problems, dining philosopher `s problem, sleeping barber problem. Process Scheduling; \nscheduling objective s, scheduling criteria, preemptive vs. non -preemptive, interval timer or interrupting \nclock,  deadline, FIFO, Round Robin, priorities, multiple queues, shortest job first, shortest remaining \ntime, highest response ratio nest, fair share, policy versus mech anism, process management; job \nscheduling versus proces s scheduling, process scheduling, process scheduling policies, process \nscheduling algorithms, interrupts, deadlock, starvation  Real Memory Management early system; single -\nuser contiguous scheme, fixed  partition, dynamic partition relocatable dynamic parti tion, relocatable \ndynamic partition Virtual Memory Management. Resent system; paged memory allocation. demand. \npage replacement policies.  "
+    },
+    {
+        "extracted_portion": "CSC 208: INTRODUCTION TO COMPUTER HARDWARE LABORATORY (2 UNITS ) - E \nIdentify and describe tools used for computer ser vice and explain how to use those tools safely; Identify \nand describe the various internal components of a computer, assemble a computer system, install an \noperating system; Describe the purpose of pre ventive maintenance and basic troubleshooting steps; \nTroubleshoot using system tools and diagnostic software. Hands -on labs and interactive learning tools \nwhich help students to develop critical thinking and complex problem -solving skills; Identify and \ndescribe the main components of laptops and portable devic es, basic preventive maintenance, and \ntroubleshooting; Identify and describe the differences between printers and scanners, installation and \nconfiguration, basic preventive maintenance, and troubleshoo ting. "
+    },
+    {
+        "extracted_portion": "CSC 212: COMPUTER ARCHITECTURE (3 UNITS) - C \nLevels of machine design; gates, register and processor levels. Number systems and computer \narithmetic, CPU design, instruction sets, von Neumann architecture, multiplication and division \nalgorithms and i mplementation, floating point processors. Parallelism, multiprocessor etc. control unit \ndesign, hardwired and micro -programmed control. Memory design, hierarchical memory design, cache, \nassociative and inter leaved memory.  "
+    },
+    {
+        "extracted_portion": "CSC 213: ALGORITHM DEVELOPMENT A ND APPLICATION (3 UNITS) \u2013 C   \nThe study of algorithm d esign with emphasis on efficient algorithms and effective algorithms desi gns \ntechniques and complexity, program design, string processing; recursion, NP completeness and \napproximating algorithms for NP  \u2013 Complete Problems.  Algorithmic Strategies: Fundamental computing \nalgorithms: Numerical algorithms, sequential and binary search algorithms; sorting algorithms, Binary \nSearch tress, Hash tables, graphs & its representation, Greedy techniques, amortized a nalysis, \napproximatio n algorithms, cryptographic algorithms, distributed algorithms.  "
+    },
+    {
+        "extracted_portion": "CSC 214: DATABASE DESIGN AND MANAGEMENT  I   (3 UNITS)  - C                   \nInformation in the organization, DBMS Technology and concepts, entity relational analysis, the relational \ndata m odel, structured Query language (SQL), Functional dependency diagrams, Normalization of data, \nclient server database technologies, Data Integrity. What is Data Modeling: Conceptual & physical \nmodels, instances, attributes and identifie rs, Entity relationsh ip modeling and ERDs, Entity Relationship \nDiagramming,  Supertypes, Subtypes, and Business Rules, System development life cycle,  Project \noverview and getting started, Presentation project management, Final presentation components , \nPresentation.  "
+    },
+    {
+        "extracted_portion": "CSC 215: SOFTWARE PRACTICE (2 UNITS)  \nGeneral introduction to programming. Structured programming elements, Structured Design principles, \nabstraction, modality, Stepwise refinement, structured design techniques. Teaching of a Structured \nProgram ming Language, Labora tory exercises in a Structured Programming Language. Focus on Visual \nBasic (VB) programming language. Data types. Events. GUI. IDE. Algorithm development, designing, \ncoding, compilation, debugging and documentation. Real life applicati on development. E.g. games, \nbusiness, science and Engineering. Students should be encouraged to develop and present any \napplication within their interest areas.  "
+    },
+    {
+        "extracted_portion": "CSC 217: FUNDAMENTAL OF DIGITAL ELECTRONICS (2 UNITS) - R  \n"
+    },
+    {
+        "extracted_portion": "\n Voltage and current sources. kircho ff\u2019s laws, linearity and super -position. Therein Norton theorems, \nsteady, state response to sinusoidal excitation; impulse response, semi -conductors, bipolar and field \neffect transistors; Logic circuit design (gates, multivibrators, etc.) using semi -conduc tors materi als, \nintegrated circuits, classification of IC circuits.  "
+    },
+    {
+        "extracted_portion": "CSC 218: FOUNDATION OF SEQUENTIAL PROGRAM (2 UNITS) - C \nThe relationships between H/L languages and the Computer Architecture that underlies their \nimplementation: basic machine architectu re, assembl ers specification and translation of P/L Block \nStructured Languages, parameter passing mechanisms.  "
+    },
+    {
+        "extracted_portion": "CSC 219: DIGITAL LOGIC DESIGN (2 UNITS) - E \nIntroduction to laboratory and review of lab policies; Hands -on experience on topics that are \ntheore tically cov ered in the digital logic design course, basic logic gate experiments, combinational logic \ncircuits experiments, and sequential logic circuits experiments. The experiments on all topics vary from \nfunctional troubleshooting to gate and block leve l design im plementation. The Laboratory experiments \nshould cover the following topics: IC families, TTL electrical characteristics, DeMorgan\u2019s theorem, Logic \ncircuit simplification, Design of combinational circuit, Introduction to flip -flops, Application o f flip-flops, \nMemory systems and Programmable logic.  "
+    },
+    {
+        "extracted_portion": "CSC 221: FUNDAMENTALS OF DATA STRUCTURES (3 UNITS) - C \nElementary data items. Structured data item, array, ordered list, sparse matrices, stacks, queues \nsequences. Trees, simple sorting and searching techniques. Tree structures and graphs structures; \npolish notation, storage management and garbage collection. Hash coding, recursive programming, use \nof macros.   "
+    },
+    {
+        "extracted_portion": "CSC 222: ASSEMBLY LANGUAGE PROGRAMMING (2 UNITS)   - C   \nBinary number systems and other syste ms. Types of encoding, modes of representations of data e.g. \ninteger, floating, package decimal, character etc. Basic structure of the computer. Instruction set and \ncorresponding machine language modes of addressing. Instruction execution and flow of macro s, \nlinkages, interfacing, assembling a language program with programs in the other languages, necessary \naspect of job control languages.  "
+    },
+    {
+        "extracted_portion": "CSC 223: INTRODUCTION TO INFORMATION PROCESSING METHODS (2 UNITS) - C \nInformation systems, management information syst em, other information retrieval. Overview of file \norganization, data structure, sorting and merging, construction and maintenance of search trees. \nDecision tables, structure of decision tables.  "
+    },
+    {
+        "extracted_portion": "CSC 226: OBJECT -ORIENTED PROGRAMMING I, C++ (3 UNITS) - C  \nIntroduction to C: Structured Programming elements, structured design principles, abstraction \nmodularity, stepwise refinement, structured design techniques. Teaching of a structured programming \nlanguage such as C.  Basic object -oriented Programming concepts , objects, inheritance, polymorphism, \ndata abstraction, tools for developing, compiling, interrupting and debugging an object -oriented \nprogramming language. Laboratory exercises in an object -oriented programming language. C++  "
+    },
+    {
+        "extracted_portion": "CSC 228: SOFTWARE PRACTICE II  (2 UNITS)  \nProgramming language; Basic elements, Data types, Control structures and Program design; Basic I/O \nconcepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory \nAllocation; Programming exercises using current version of FORTRA N language with emphasis on science \napplication problems. Note that this course is the same as CSC 104, and hence only to be taken \nby non -computer science students  "
+    },
+    {
+        "extracted_portion": "CSC 301: COMPUTER APPLICATION III FOR ARTS, SOCIAL SCIENCES & MANAGEMENT  SCIENCES  (2 UNITS )  \nDatabases: Understand database tables, queries, forms, and reports and business applications. \nImplementation using Access db. Students should be encourage to create database using access. \nPowerpoint presentations: Multimedia presentation softwa re. Apply  procedures to use presentation \nsoftware in business. Business uses of  Presentation software and methods of distribution. Apply \nprocedures to develop multimedia presentations used in business.  Internet banking and  Online \ntransactions component o f Interne t banking. Password Management. Computerization and cashless \neconomy.  Computer virus: Computer Virus, Types of virus, Different Antivirus, Different types of attack \nmalware, spyware, Firewall, updates etc  "
+    },
+    {
+        "extracted_portion": "\n CSC 303: OBJECT -ORIENTED PROGRAMMING II, Java (3 U NITS) - C  \nThe focus of the course is on Java. Basic OOP Concepts: Classes, Objects, inheritance, polymorphism, \nData Abstraction, Tools for developing, Compiling, interpreting and debugging, Java Programs, Java \nSyntax and data objects, operators. Central f low constructs, objects and classes programming, Arrays, \nmethods. Exceptions, Applets and the Abstract, OLE, Persistence, Window or Unix Toolkit, Laboratory \nexercises in an OOP Language.  "
+    },
+    {
+        "extracted_portion": "CSC 319: COMPILER CONSTRUCTION (3 UNITS) - C \nReview of com pilers as semblers and interpreters, structure and functional aspects of a typical compiler, \nsyntax semantics and pragatics, functional relationship between lexical analysis, expression analysis and \ncode generation. Internal form of course programme. Use of  a standa rd compiler (FORTRAN). Grammars \nand languages, recognizers, Top -down and bottom -up language Run -time storage Organization, The use \nof display in run -time storage Organization. The use of display in run time storage allocation. LR \ngrammars and anal ysers. Co nstruction of LR table. Organisation of symbol tablets. Allocation of storage \nto run -time variables. Code generation. Optimisation/Translator with systems.  "
+    },
+    {
+        "extracted_portion": "CSC 323: EVOLUTIONARY COMPUTATION (2 UNITS)  - E \nIntroduction to Evolutionary Computation.  Genetic Representation, search operators, selection schemes \nand selection pressure. Fitness Landscapes e.g. Configuration spaces, Properties of landscapes. Local \noptima; Basins. Multi -population methods. Co -evolution. Niching and Speciation. M ulti-objecti ve \nEvolutionary Optimisation. Dynamic optimisation Genetic Programming. A case study of Evolutionary \nmethods. Evolving learning -machines, e.g. Neural Networks or Learning Classifier Systems.  "
+    },
+    {
+        "extracted_portion": "CSC 325: OPERATING SYSTEM II (3 UNITS) - C \nFile Syst em: Naming, Structure, Types, Access, Attributes, Operating Memory -mapped. Directories: \nHierarchical part names, operations, implementation, shared files, disk space management, file system \nreliability, file system performance. File security: environment, security fla ws, internet worms, security \nattacks, design principles in security, user authentication. Protection mechanisms: protection domain, \nAccess control lists, capabilities, protection model, covert channels. Input /output : I/O devices, Device \ncontrollers, Dire ct Memory  Access, Goals of I/O software, Interrupt handlers, Device drivers, Device \nIndependent I/O software, User -Space I/O software, Disks Hardware, Disk arm scheduling algorithms, \nerror handling, Track -at-a-Time caching, Ram disks, clocks: Clock Hardwa re, clock software. Terminal: \nHardware, Memory -Mapped Terminals, Input software, output software. Case study: UNIX, OS/2, \nMSDOS and Open systems. A study of concurrency and writing concurrent programs, emphasis will be \non language constructs us ed to expres s and control concurrency. Concurrent programming techniques \nan styles. Co -writers, mutual exclusion, semaphones, deadlock, high level concurrency, writer process \ncommunication and process structuring, laboratory exercises using a basic concurr ent programs . "
+    },
+    {
+        "extracted_portion": "CSC 327: DATABASE MANAGEMENT SYSTEM II (3 UNITS) - C \nRational Databases: Mapping conceptual schema to relational Schema; Database Query  Languages \n(SQL) Concept of Functional dependencies & Multi Valued dependencies. Transaction processing; \nDistributed databases. Third normal form, Arcs, Hierarchies, and Historical Data, ERD Project \nPresentation, Drawing Conventions and Generic Modeling, Transforming from Conceptual Model to \nPhysical Model.  "
+    },
+    {
+        "extracted_portion": "CSC 333: COMPUTER RESEARCH METHODOLOGY (1 Unit) - R \nThe meaning  and concept of research. Types of research: Quantitative and qualitative. The Information \nskills: retrieving and recording bibliographic information from manual and computerized sources. \nCitation.  Intellectual property rights; time m anagement; report wri ting; oral presentation, plagiarism. \nScientific writing.  "
+    },
+    {
+        "extracted_portion": "CSC 335: INTRODUCTION TO FORMAL LANGUAGES AND AUTOMATA THEORY (2 UNITS) - E \nFormal Language: formal grammars, parsing, regular languages, context -free languages, automata \ntheory. Finite state automa ta push -down automata. Compiler Construction: Grammars and language, \nrecognizers, top -down and bottom -up production language; run -time. Storage organization. The use of \ndisplay in run time storage allocation. LR grammars  and analyzers of symbol tables. All ocation of storage \nto run time variable codes generation. Optimization translator writing systems.  "
+    },
+    {
+        "extracted_portion": "CSC 339: SYSTEMS ANALYSIS AND DESIGN (3 UNITS) - C \nSystem Concept; System Development Life Cycle Analysis: Fact gatherin g Techniques, data flow \ndiagrams, Pr ocess description data modeling. System Design: Structure Charts, form designs, security, \nautomated Tools for design. Scope of systems analysis . System investigation. Input design output "
+    },
+    {
+        "extracted_portion": "\n design. Review of design and orga nization of files. Design and docume ntation. Program designs, \nfeasibility study. Systems analysis techniques, management information system, systems \nimplementation and conversion.  "
+    },
+    {
+        "extracted_portion": "CSC 371: FUNCTIONAL PROGRAMMING: (2 Units) - E  \nThe study of functional programming paradigm, procedural versus  functional paradigm; efficient function \nhandling, structured memory. Heap. Introduction to Haskell: Data types, operators, Lists, List \noperations, claases types, ZF -exoression, quicksort, func tion composition, memoisation, fold functions, \ntuples, zip and curry, mathematical induction . Introduction to Hugs. Basic commands, Loading data, \ninput/output.  "
+    },
+    {
+        "extracted_portion": "CSC 392: PRACTICAL APPLICATION OF SOFTWARE DEVELOPMENT IN INDUSTRIES  (4 UNITS)  - R  \nThe main  aim of this course is to give students the opportunity to deve lop a software package of choice. \nStudents are required to use the software principles learnt so far to develop at least one software \npackage related to the industry where they are undergoing S IWES. The software should reflect the \nunderstanding of System D evelopment Life Cycle. Any programming language could be used, e.g. java, \nC++, etc. Students should also demonstrate ability to create and interrogate databases and their \ncomponents. Each stude nt is required to submit a CD/DVD containing the source code an d the binary or \ncompiled version of the software package at the end of SIWES to the department for assessment. The \nCD should also contain the documentation on how to use the software, system re quirements and \ninstallation instruction.  "
+    },
+    {
+        "extracted_portion": "CSC 394: PRACTICAL APP LICATION OF DATABASE MANAGEMENT IN INDUSTRIES  (4 UNITS) -  R \nRecord keeping is very important in business management and every company or business keeps record \nand accesses such records at one point or the order. A major challenge in record management is t he \nmanual approach of record keeping which is commonly used in Nigeria. Computer Scientists attempt to \nsolve this problem by automating record keeping using database management system concepts.  The \naim of this course is to encourage each student to apply t he concepts of database management learnt in \nthe class to the company where SIWES is undertaken. Students are required to create databases using \nany package of choice, e.g. MySQL, postgreSQL, M icrosoft SQL, MS -Access, Oracle, Sybase, Ingress, \nInformix, etc . They are also required to demonstrate ability to manipulate tables, issue queries, \ngenerate/design reports and forms, link tables, etc. Students could also demonstrate front -end \nprogramming a bility by using programming languages like PHP, VB.NET, Java, e tc in managing the \ndatabase created. Each student is required to submit a CD containing the package developed at the end \nof SIWES to the department for assessment. The CD should also contain th e documentation on how to \nuse the software, system requirements  and installation instruction.  "
+    },
+    {
+        "extracted_portion": "CSC 396: PRACTICAL APPLICATION OF DATA AND INFORMATION PRESENTATION SKILLS  (4  UNITS) - R  \nThe most commonly used computer applications in offices are office pac kages and this is not covered by \nthe university curriculum, tho ugh with the understanding that students could acquire the skills during \ntheir training. Unfortunately, this never happens and many BSc. Computer Science students leave the \nuniversity without a ny knowledge of office applications. The aim of this course is to expose students to \noffice applications, e.g. MS word Excel and powerpoint. Students are required to demonstrate ability to \nuse MS word, Excel and powerpoint or equivalent open office applica tions. MS Word: Open a new \ndocuments, format documents, change fonts size and type, insert page numbers, italicise, boldface, \nconversion for pdf files, equations, creation of CV, header and footnotes, mail merge, tables, tracking \nchanges, references and bi bliography, etc. Excel: Create new spreadsheet, create records related, use \nformula, macros, format cells, merge cells, split cells, import text files, conversion of spreadsheet files to \ncomma separated files, export as pdf files, etc. Powerpoint: Create s lides and presentations, use \ndifferent designs, and layouts, sl ide show, slide timing tool, printing, animations,  inserting tables, \nfigures, clip arts, slides rehearsing and recording, Document Workflow, Electronic Document \nManagement System ,Other Office  Applications: Payroll, Pension Manager, Human Resources, Custo mer \nRelation Management (CRM), etc. Each student is required to submit an electronic copy in CD form of \nany document created using office tools listed above.  "
+    },
+    {
+        "extracted_portion": "CSC 398: STUDENTS\u2019 INDUSTRIAL WORK  EXPERIENCE SCHEME (SIWES) (6 UNITS) - C \nThe SIWES is a work ba sed training programme for a period of six months, in the industry, under the \nfollow up of an academic faculty member from the department of Computer Sciences, Lagos state \nuniversity. SIWES gives students the opportunity to apply the knowledge acquired dur ing the BSc. \nProgramme to the industry and also to identify problems that could be solved using computational "
+    },
+    {
+        "extracted_portion": "\n techniques. Students must get a formal/written approval from the head of department before proceeding \non the training. Periodic reports and a fina l report must be submitted for evaluation, an oral examination \nis required. The first report shall be due for submission at the end of the first three weeks of SIWES. The \nfirst report which must be sent electronically to the head of department will contain  the activities of the \nindustry, how the industry uses Computer Science / information technology, and the roles assigned to \nthe student. The final report shall contain a summative report of the roles of the students within the \nindustry, what was learnt, ch allenges and recommendations. This course cannot be taken by students \nnot studying for the award of BSc. in Computer Sciences.  "
+    },
+    {
+        "extracted_portion": "CSC 405: SOCIAL ISSUES IN INFORMATION TECHNOLOGY (2 UNITS) - E \nEthical issues in the work place, in work -teams and with clients m oral values  generation, culture, \nheritage and technology im0plications of technology, globally and in Nigeria. Computer abuse, crime \ndetection, legal issues in the IT profession community, global and environmental responsibility \nprofessional ethical codes  and personal responsibility.  "
+    },
+    {
+        "extracted_portion": "CSC 413: SOFTWARE ENGINEERING (4 UNITS) - C \nIntroduction, Software process, Project planning, Requirement Engineering, System Models: Process \nModels; DFDS, State -transition, State charts UML, Data Models, ER Models, Object oriented modeling \nusing UML, Software verification and validation, Software Testing. Topics from process improvement; \nSoftware re -engineering configuration management; formal specification, software cost - estimation, \nsoftware Architecture, software pattern s, software reuse and open source development.  "
+    },
+    {
+        "extracted_portion": "CSCPATTERN RECOGNITION AND COMPUTER VISION (3 UNITS) - E \nImage understanding and analysis, study of the underlying image segmentation techniques, object \nmeasurements including shape and texture analysis,  feature selection and extraction, classification, \nmultispectral image analysis, 3D imaging, computerized tomography, stereometry and stereoscopic \nimaging. Image Arithmetic and manipulation. Image format types. MATLAB and image analysis toolbox.  "
+    },
+    {
+        "extracted_portion": "CSC 419: STATISTICAL COMPUTING (3 UNITS) - E \nProblems Associated with analysis of stochastic problems and statistical analysis by Applied Linear \nModels: Computational aspects of multiple models; Programming for Statistical Problems and Statistical \nPackages.  "
+    },
+    {
+        "extracted_portion": "CSC0: INTRODUCTION TO COMPUTER SECURITY (3 UNITS) -C  \nPrivate and public -key cryptography; block ciphers, data encryption, authentication, key distribution and \ncertification, pseudorandom number generators, design and analysis of protocols, zero -knowledge \nproofs, and advanced protocols. Emphasizes rigorous mathematical approach including formal definitions \nof security goals and proofs of protocol security.  Basic cryptography, security/threat analysis, access \ncontrol, auditing, security models, distributed sys tems security, and theory behind common attack and \ndefense techniques. The class will go over formal models as well as the bits and bytes of security \nexploits.  "
+    },
+    {
+        "extracted_portion": "CSC 421: EMBEDDED COMPUTER SYSTEMS (2 UNITS) - E \nIntroduction to embedded Computing; embedded c omputing hardware: Processors, DSPs, SOCs, \nPeripherals; Communications; Software: Real -Time O/Ss, Scheduling; Design Methodology; Hardware \nProgramming; FP GA Programming. Embedded computer systems are found everywhere -- cellular \nphones, cars, VCRs, camera s, and all kinds of consumer electronics. The huge numbers and new added \ncomplexity requires new technologies and design approaches. The goal of this course is to develop a \ncomprehensive understanding of the technologies behind the embedded systems. The st udents develop \nan appreciation of the underlying technology capabilities and limitations of the hardware, software \ncomponents for building embedded systems. The students also learn new approaches for building \nembedded systems and will gain experience on ac tual system design through several hands -on \nexperiments.  "
+    },
+    {
+        "extracted_portion": "CSC 424: EXPERT SYSTEMS AND KNOWLEDGE ENGINEERING (2 UNITS) - E  \nIntroduction: The history of knowledge -based expert systems; Characteristics of current expert systems; \nand Basic concepts for building  expert systems. Building and Expert System: The architecture of expert \nsystems; Constructing an expert system; and Tools  for building expert systems. Evaluating an Expert \nSystem: Reasoning about reasoning; and Issues and case studies. Language and Tools f or Knowledge \nEngineering. A Case Study in Knowledge Engineering  "
+    },
+    {
+        "extracted_portion": "CSC 426: FURTHER STATISTICAL PROCESSING (3 UNITS) - E \n"
+    },
+    {
+        "extracted_portion": "\n Topics to include: Multiple Regression Analysis; One -way Analysis Variance. Two -way Analysis of \nVariance; Generalized inverses and Appli cations; Statistical Control; use of Packages to solve Statistical \nproblems.  "
+    },
+    {
+        "extracted_portion": "CSC 427: COMPUTATIONAL SCIENCE AND NUMERICA L ANALYSIS (3 UNITS) - C       \nNumerical Data representation on computer, Computer as a crunching tool, Floating Point number, \nrepresen tation and arithmetic: Error, Stability, Convergence. Theory of computational solution to \nproblem: numerical algorithm formulation and design, numeric s oftware systems. Introduction to use of \nMatlab and Maple in numerical computation and engineering applic ations. Emphasis is on the use of \nsoftware to solve real problems. Iterative solution of non -linear systems (Newton\u2019s method)   Numerical \nsolution of li near systems. Numerical computation of Eigenvalues eigenvectors. Curve fitting; Function \napproximation. Numerical differentiation and integration (Simpson\u2019s rule, etc). Explicit and Implicit \nmethods. Differential equations (Euler\u2019s Method, etc). Linear Alg ebra: Finite Differences.  High \nperformance computation  "
+    },
+    {
+        "extracted_portion": "CSC 428: COMPUTER GRAPHICS AND VISUAL COMPUTIN G (2 UNITS) - E \nHardware aspect: Plotters microfilm, display, graphic tables, light pens, other graphical input aids, \nfacsimile and its problems. Refres h/display, refresh buggers, charging images light -pen interaction. Two \nand three dimensional transformat ions, perspective, chipping algorithms. Amode\u2019s method, shading, \ndata reduction for graphical input, introduction of character recognition. Curve synthe sis and fitting. \nControlling, wing, structures, versus doubly linked bits hierarchical data structures, organization for \ninteractive graphics.   "
+    },
+    {
+        "extracted_portion": "CSC 429: MODELING AND SIMULATION (3 UNITS) - E     \nThe concepts and techniques used in modeling and simulation methodology and a suitable simulation \nlanguage (SIMPSCRIPT, etc.), inventory control product scheduling,  quality control, industrial simulation \nand forecast, modeling generation of random variables.  "
+    },
+    {
+        "extracted_portion": "CSC 431: ANALYSIS AND DESIGN OF DIGITAL SYSTEM (3 UNITS)  - E  \nInformation; representation and manipulation, coding logic functions, Boolean algebra, logic gates  \ncombination circuits design, logarithmic methods of synthesis and minimization of combination circuits \ndesign, logarithmic methods of synthesis and min imization of combination circuits memories including \nlatch, flip -flop, shift heartier, RAM and ROM synth esis of synchronous sequential networks. \nAsynchronous sequential logic.  "
+    },
+    {
+        "extracted_portion": "CSC 432: PRINCIPLES OF PROGRAMMING LANGUAGES II (3 UNITS) - C \nThe effects of sc ale on programming methodology; Language Description: Syntactic Structure \n(Expression notations, abstrac t Syntax Tree, Lexical Syntax, Grammars for Expressions, Variants of \nGrammars), Language Semantics (Informal semantics, Overview of formal semantics, De notation \nsemantics, Axiomatic semantics, Operational semantics); Declarations and types: The concept of types, \nDeclaration models (binding, visibility, scope, and lifetime), Overview of type -checking, Garbage \ncollection; Abstraction mechanisms: Procedures,  function, and iterations as abstraction mechanisms, \nParameterization mechanisms (reference vs. value), Activation records and storage management, Type \nparameters and parameterized types, Modules in programming languages; Object oriented language \nparadigm;  Functional and logic language paradigms.  "
+    },
+    {
+        "extracted_portion": "CSC 433: OPTIMIZATION THEORY (3 UNITS) - E \nQueuing theory, s imulation models, inventory models, forecasting, non -linear programming goal \nprogramming, calculus of variation, integer programming, quadratic programm ing, decision theory.  "
+    },
+    {
+        "extracted_portion": "CSC 437: ARTIFICIAL INTELLIGENCE (3 UNITS) - C     \nIntroduction to Artificial Int elligence, understanding natural languages, knowledge representation, \nexport system pattern recognition, the language HLSP and PROLOG. Intelligent agents  ; Problem solving \nas search  : Search strategies  : Breath first, Depth -first, uniform cost, dept constr aint satisfaction \nProblems, Backtracking search for CSP, Constraint Propagation, Local search for CSPs. Logic -based \nknowledge representation.  "
+    },
+    {
+        "extracted_portion": "CSCCOMPUTER NETWORK AND DATA COMMUNICATION (3 UNITS) - E \nIntroduction to concepts, principles and practice o f computer communication networks with examples \nfrom existing architectures, protocols, and standards. Layering and the OSL model, switching, local, \nmetropolitan, and wide area networks, data grams and vir tual circuits, mounting and congestion control, \ninternet working. Introduction, wares, Fourier analysis, measure of communication, channel \ncharacteristics, transmission media, noise and distortion, modulation and demodulation, multiplexing, "
+    },
+    {
+        "extracted_portion": "\n TDM FDM and FCM  Parallel and serial transmission (synchronous Vs a synchronous). Bus structures and \nloop systems, computer network Examples and design consideration, data switching principles broadcast \ntechniques, network structure for packet switching, protocols, descrip tion of network e.g. ARPANET, etc.  "
+    },
+    {
+        "extracted_portion": "CSC 439: STATIS TICAL PROCESSING SYSTEMS (3 UNITS) - E \nDesign and Analysis of Sampling Surveys; Statistical Data Compression; 2D, 3D Frequency Table, Points \nand Interval Estimation; Test of Significance: Test of Hypothesi s; Analysis of Categorical Data; Model \nValidation; x2-Test, Probability Plots.  "
+    },
+    {
+        "extracted_portion": "CSC 441: PROJECT MANAGEMENT (3 UNITS)  \nManagement Concepts. Project organiz ation, teams, methods and tools for project management. \nOrganization constraints on development. Proj ect Planning Objectives, Resources, Project Estimat ion, \nCost Factors, Decomposition Techniques, Estimation Models. Risk Strategies, Risk Identification, Risk \nProjection, Risk Monitoring and Management. Work Breakdown Structure,Task Allocation/Effort \nDistri bution. Network Diagrams, PERT and Critical PathMet hod, Gantt Chart. Scheduling Strategies. \nProject Tracking, Controlling Progress. Quality measurement. Linear Programming and PERT/CPM \napplications. System Engineering, Software Development Process, Softwar e Life Cycle, Software Metrics \nand Measurement.  "
+    },
+    {
+        "extracted_portion": "CSC 451: HUMAN COMPUTER INTERFACE (HCI) (2 UNITS) - C \nFoundations of HCI, Principles of GUI, GUI toolkits; Human -centred software evaluation and \ndevelopment; GUI design and programming.  "
+    },
+    {
+        "extracted_portion": "CSC 442: INTRODUCTION TO PHP AND MYSQL (2 UNITS) - E \nMeaning of a Web Database Application. The database, the application: Moving data in and out of the \ndatabase, MYSQL, Communicating with the MYSQL \u2013 How MYSQL \u2013works, Advantages of PHP, How PHP \nworks, MYSQL - and P HP, the Perfect Pair, Advantages of the relationship, How MYS QL \u2013 and PHP work \ntogether, keeping Up with PHP and MYSQL Changes.  "
+    },
+    {
+        "extracted_portion": "CSC 444: MANAGEMENT INFORMATION SYSTEM  \nAn introduction to Information Systems and their strategic role in business. Types of In formation \nSystems, organizational requirements, systems devel opment strategies, Decision Support Systems, data \nand information management, and information systems management, control and implementation.  "
+    },
+    {
+        "extracted_portion": "CSC 452: ROBOTICS: (2 UNITS) - E \nMathematical modeling of robot mechanisms and the analysis methods used to desig n control laws for \nthese mechanisms. Homogeneous transformations and relative coordinate frames. Topics include: \nkinematics of robot manipulators, Robot velocities and static f orces, manipulator dynamics, reference \ntrajectory generation, control theory app lied to robot manipulators, and tele -operation control  "
+    },
+    {
+        "extracted_portion": "CSC 454: DIGITAL IMAGE PROCESSING (2 UNITS) - E \nDigitization and coding of images, characterization and representation o f digital images in spatial and \nfrequency domains, image restoration, perception  and enhancement, point -, algebraic -, and geometric \noperations, discrete image transforms, image filtering, image reconstruction, pattern recognition \nprinciples: segmentation a nd object measurement.  "
+    },
+    {
+        "extracted_portion": "CSC 455: NET -CENTRIC COMPUTING (3 UNITS) - E \nDistribute d Computing, Mobile & Wireless computing, Network Security; Client/Server Computing. \nIntroduction to the WWW, HTML - document structure Images, links, maps, tables, frames, form s, \nProtocols & server technology - HTTP, TCP/IP, MIME, URLs, CGI JavaScript - syntax, DOM, forms \nprocessing, common tasks style sheets - fundamentals, CSS positioning, web design and usability, \nIntroduction to XML - syntax, DTDs XSL, XHTML, Multimedia, audio,  video animation, multimedia server  \nand protocol technology, Web development to ols-Editors, site management tools.  "
+    },
+    {
+        "extracted_portion": "CSC 497: SEMINAR ON SPECIAL TOPICS IN COMPUTER SCIENCE (2 UNITS) - C \nStudents are required to choose topics on special topics in computer science under the guidance of a \nsupervisor. Students are required to submit the bond form of the seminar to the department upon \ncompletion.  Topics could include, but not limited to,  any of the following: Performance Evaluation of \nComputer Systems, Concurrent Programming, Pattern Recognition, Distributed Database, Programming \nEnvironm ents, High -Level Language and Data flow Architectures, Computer Vision, Planning, Natural and \nSpoken Langua ge Understanding, Temporal Logics, Supercomputing VLSI Design, Human Computer \nInteraction and so on.    "
+    },
+    {
+        "extracted_portion": "CSC 498: FINAL YEAR PROJECT (4 UNITS) - C  \nThis is an independent project where students are required to carry out a research. A project topic to be \nchosen by each student under the guidance of the supervisor. Students are required to submit the bond \nform of the project to the department upon comple tion. "
     }
 ]
