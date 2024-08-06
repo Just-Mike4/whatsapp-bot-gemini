@@ -25,7 +25,8 @@ df = pd.read_json('Data_Extraction_and_processing/extracted_text.json')
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
-vectorizer.fit(df['extracted_portion'])
+vectorizer.fit_transform(df['extracted_portion'])
+print(vectorizer)
 
 # Define a function to generate a summary based on the user input
 def generate_summary(user_input):
@@ -44,17 +45,13 @@ def generate_response(prompt):
   response = model.generate_content(prompt)
   return response.text
 
-def correct_grammar(text):
-    matches = tool.check(text)
-    corrected_text = language_tool_python.utils.correct(text, matches)
-    return corrected_text
+
 
 # Define a function to handle user input and generate a response
 def handle_user_input(user_input):
-    summary, score = generate_summary(user_input)
-    corrected_summary = correct_grammar(summary)  # Correct grammatical errors in the summary
+    summary, score = generate_summary(user_input)  
     response = generate_response(user_input)
-    return corrected_summary, score, response
+    return summary, score, response
 
 
 def main():

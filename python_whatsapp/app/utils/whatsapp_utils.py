@@ -29,7 +29,7 @@ df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Proje
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
-vectorizer.fit(df['extracted_portion'])
+vectorizer.fit_transform(df['extracted_portion'])
 
 def generate_summary(user_input):
     cleaned_input = user_input
