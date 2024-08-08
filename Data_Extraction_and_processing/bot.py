@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import language_tool_python
-
+from rouge_score import rouge_scorer
 
 tool = language_tool_python.LanguageToolPublicAPI('en-US')
 
@@ -53,6 +53,10 @@ def handle_user_input(user_input):
     response = generate_response(user_input)
     return summary, score, response
 
+def calculate_rouge(reference, hypothesis):
+    scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+    scores = scorer.score(reference, hypothesis)
+    return scores
 
 def main():
   print("Hi! I'm your conversational AI Assistant and Text summarization bot, How can i help you today?")
@@ -62,7 +66,8 @@ def main():
       break
     summary, score, response = handle_user_input(user_input)
     if score>0:
-        print(f"Chatbot: {summary}")
+        rouge_scores = calculate_rouge(user_input, summary)
+        print(f"Chatbot: {summary} \n\nSummary score: {score} \n\nRogue scores: {rouge_scores}")
     else:
         print(f"Chatbot: {response}")
 
