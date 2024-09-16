@@ -25,7 +25,8 @@ punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
 # Load the preprocessed data
-df = pd.read_json(r'C:\Users\user\Desktop\Final Project\final-year-proj\Data_Extraction_and_processing\extracted_text.json')
+df= pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/Data_Extraction_and_processing/extracted_text.json')
+# df = pd.read_json(r'C:\Users\user\Desktop\Final Project\final-year-proj\Data_Extraction_and_processing\extracted_text.json')
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
@@ -81,7 +82,7 @@ def get_text_message_input(recipient, text):
 def generate_response(prompt):
   summary, score, response = handle_user_input(prompt)
 
-  if score>0:
+  if score>0.1:
         response=summary
   else:
         response

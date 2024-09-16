@@ -16,18 +16,28 @@ from dotenv import load_dotenv
 
 app = Flask(__name__)
 
-WEBHOOK_VERIFY_TOKEN =os.getenv('WEBHOOK_VERIFY_TOKEN')
+# Load environment variables
+load_dotenv()
+
+WEBHOOK_VERIFY_TOKEN = os.getenv('WEBHOOK_VERIFY_TOKEN')
 GRAPH_API_TOKEN = os.getenv('GRAPH_API_TOKEN')
+PHONE_NUMBER_ID = os.getenv('PHONE_NUMBER_ID')
+ACCESS_TOKEN = os.getenv('GRAPH_API_TOKEN')
+VERSION = 'v18.0'
+RECIPIENT_WAID = os.getenv('RECIPIENT_WAID')
 PORT = int(os.getenv('PORT', 8000))
 
 tool = language_tool_python.LanguageToolPublicAPI('en-US')
-load_dotenv()
 
+# Initialize SpaCy, punctuation, stopwords, and LanguageTool
 nlp = spacy.load('en_core_web_sm')
 punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
-df = pd.read_json(r'C:\Users\user\Desktop\Final Project\final-year-proj\Data_Extraction_and_processing\extracted_text.json')
+# Load the preprocessed data
+df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/Data_Extraction_and_processing/extracted_text.json')
+# df = pd.read_json(r'C:\Users\user\Desktop\Final Project\final-year-proj\Data_Extraction_and_processing\extracted_text.json')
+# Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
 vectorizer.fit_transform(df['extracted_portion'])
 
@@ -74,7 +84,8 @@ def get_text_message_input(recipient, text):
 
 def generate_response(prompt):
     summary, score, response = handle_user_input(prompt)
-    if score > 0:
+    # print(score)
+    if score > 0.1:
         response = summary
     return response
 
@@ -83,7 +94,7 @@ def send_message(data):
         "Content-type": "application/json",
         "Authorization": f"Bearer {GRAPH_API_TOKEN}",
     }
-    url = f"https://graph.facebook.com/v18.0/{current_app.config['PHONE_NUMBER_ID']}/messages"
+    url = f"https://graph.facebook.com/{VERSION}/{PHONE_NUMBER_ID}/messages"
     try:
         response = requests.post(url, data=data, headers=headers, timeout=10)
         response.raise_for_status()
@@ -124,21 +135,31 @@ def is_valid_whatsapp_message(body):
 @app.route('/webhook', methods=['POST'])
 def webhook():
     data = request.get_json()
-    print("Incoming webhook message:", json.dumps(data, indent=2))
+    # print("Incoming webhook message:", json.dumps(data, indent=2))
     if is_valid_whatsapp_message(data):
         process_whatsapp_message(data)
     return '', 200
 
 @app.route('/webhook', methods=['GET'])
 def verify_webhook():
-    mode = request.args.get('hub.mode')
-    token = request.args.get('hub.verify_token')
-    challenge = request.args.get('hub.challenge')
-    if mode == 'subscribe' and token == WEBHOOK_VERIFY_TOKEN:
-        print("Webhook verified successfully!")
-        return challenge, 200
+    mode = request.args.get("hub.mode")
+    token = request.args.get("hub.verify_token")
+    challenge = request.args.get("hub.challenge")
+    # Check if a token and mode were sent
+    if mode and token:
+        # Check the mode and token sent are correct
+        if mode == "subscribe" and token == WEBHOOK_VERIFY_TOKEN:
+            # Respond with 200 OK and challenge token from the request
+            logging.info("WEBHOOK_VERIFIED")
+            return challenge, 200
+        else:
+            # Responds with '403 Forbidden' if verify tokens do not match
+            logging.info("VERIFICATION_FAILED")
+            return jsonify({"status": "error", "message": "Verification failed"}), 403
     else:
-        return 'Forbidden', 403
+        # Responds with '400 Bad Request' if verify tokens do not match
+        logging.info("MISSING_PARAMETER")
+        return jsonify({"status": "error", "message": "Missing parameters"}), 400
 
 @app.route('/')
 def index():
