@@ -25,7 +25,7 @@ punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
 # Load the preprocessed data
-df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/Data_Extraction_and_processing/extracted_text.json')
+df = pd.read_json(r'C:\Users\user\Desktop\Final Project\final-year-proj\Data_Extraction_and_processing\extracted_text.json')
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
