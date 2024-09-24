@@ -44,12 +44,6 @@ Continuous Assessment (CA) shall be done through essays, tests, term papers, tut
 b. Examination 
 Final examination shall be conducted on every course at the end of each semester. Scores from the final examination shall be 70% of the final marks. 
  
- 
- 
- 
- 
- 	 	 	 
-
 CSC 104: SOFTWARE WORKSHOP (3 UNITS) - C 
 Programming language; Basic elements, Data types, Control structures and Program design; Basic I/O concepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory Allocation; Programming exercises using current version of FORTRAN language with emphasis on science application problems. 
  

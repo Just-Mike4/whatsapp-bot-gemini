@@ -9,7 +9,7 @@ import pandas as pd
 import string
 import numpy as np
 import language_tool_python
-from flask import Flask, request, jsonify, current_app
+from flask import Flask, request, jsonify, current_app,render_template
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
@@ -25,7 +25,7 @@ PHONE_NUMBER_ID = os.getenv('PHONE_NUMBER_ID')
 ACCESS_TOKEN = os.getenv('GRAPH_API_TOKEN')
 VERSION = 'v18.0'
 RECIPIENT_WAID = os.getenv('RECIPIENT_WAID')
-PORT = int(os.getenv('PORT', 8000))
+PORT = 8000
 
 tool = language_tool_python.LanguageToolPublicAPI('en-US')
 
@@ -164,6 +164,10 @@ def verify_webhook():
 @app.route('/')
 def index():
     return '<pre>Nothing to see here.\nCheckout README.md to start.</pre>'
+
+@app.route('/privacy-policy')
+def privacy_policy():
+    return render_template('privacy_policy.html')
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=PORT)

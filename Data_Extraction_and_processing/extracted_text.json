@@ -1,8 +1,5 @@
 [
     {
-        "extracted_portion": " REVISED CURRICULUM FOR BSC DEGREE PROGRAMME   THE DEPARTMENT OF COMPUTER SCIENCE  \n"
-    },
-    {
         "extracted_portion": "RATIONALE AND PHILOSOPHY  \nThe use of computers is on an historical increase in Nigeria and computers are rapidly becoming parts of \nour lives. This includ es social networkin g, online shopping, teaching and research, transportation, \ncommunication, marketing, to automobiles, manufacturing, patient diagnosis; surgery; treatment and \nmanagement, the list continues. Nearly all sectors, offices and businesses now use one computer \napplication or the other.  \nA major challenge in Nigeria, particularly in Lagos state, is the shortage of capable computer \nprofessionals who will meet the growing needs of the nation and provide the services and expertise \nrequired. In the department of compu ter science, Lagos State University, we believe that it is possible to \ntrain home based computer professionals who will be capable of meeting national needs and also \ncompare favourably with computer professionals in the international com munity. In view of this, the \nfocus of our undergraduate programme is to equip our students with the right skills and knowledge \nrelevant to the growing needs of this dynamic society. The philosophy of the BSc in Computer Science \nprogramme is to produce grad uates well equipped  with skills, knowledge and ability that will get them \nprepared for careers in industries, research and public sectors both nationally and internationally.  "
     },
     {
@@ -36,49 +33,10 @@
         "extracted_portion": "CONTINUOUS ASS ESSMENT AND EXAMINATIONS  \na. Continuous Assessment  \nContinuous Assessment (CA) shall be done through essays, tests, term papers, tutorial exercises, \nquizzes and home work. Scores from CA shall be 30% of the final marks.  \nb. Examination  \nFinal examination shall be conducted on every course at the end of each semester. Scores from the \nfinal examination shall be 70% of the final marks.  "
     },
     {
-        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title Unit Status  \nCSC Introduction to Computer Science C \nMAT Algebra C \nMAT Trigonometry C \nMAT Coordinate Geometry I E \nPHY General Physics I C \nPHY Basic  Heat E \nPHY Experimental Physics I C \nBIO Basic Principles of Biology C \nCHM General Chemistry I C \nGNSUse of Library C \nCSC Computer application I for arts, social sciences and \nmanagement sciences ** \nTotal units   C (22), E (4)  \n** CSCis for non -computer science students  "
-    },
-    {
-        "extracted_portion": " LEVEL, RAIN  \nCode  Title U S \nCSC Computer as a Problem Sol ving ToolC \nCSC Software Workshop C \nCSC Principles of computer organization C \nCSC Principles of programming language I C \nMAT Calculus C \nMAT Coordinate Geometry II E \nMAT Introductory Statistics C \nPHY Basic Optics and Sound E \nPHY General Physics II C \nGNS Use of English C \nTotal  units   C (19 ), E (5)  "
-    },
-    {
-        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title U S \nCSC Operating Systems I  C \nCSC Algorithm development and application C \nCSC Fundamentals o f digital electronics R \nCSC Digital Logic design E \nCSC Fundamentals of Data Structures C \nCSC Introduction to Information Processing Methods C \nCSC5 Software Practice I C \nMAT Mathematical Methods I C \nMATProbability T heory and Distributions E \nGNS Lagos and its Environment C \nCSC Computer application II for arts, social sciences \nand management sciences ** \nTotal units    C (18 ), E (4), R (1)  "
-    },
-    {
-        "extracted_portion": "\n ** CSCis for non -computer science students  "
-    },
-    {
-        "extracted_portion": " LEVEL, RAI N \nCode  Title U S \nCSC Introduction to Discrete Mathematics  C \nCSC Introduction to hardware laboratory E \nCSC Computer Architecture C \nCSC Database Management System I  C \nCSC Foundation of Sequential Program C \nCSC Assem bly Programming Language  C \nCSC Object Oriented Programming I (C++) C \nMAT Differential Equations E \nPHY Electricity and Magnetism E  \nENT Entrepreneurship Studies I C  \nCSC28 Software Practice II  \nTotal units    C (17), E (8 ) \n** CSC8 is for non -computer science students  "
-    },
-    {
-        "extracted_portion": " LEVEL, HAMMATTAN  \nCode  Title U S \nCSC Object Oriented Programming II (Java) C \nCSC Compiler Construction C \nCSC Evolutionary Computation  E \nCSC Operating Systems II  C \nCSCDatabase Management System II  C \nCSC Computer Research Methodology  R \nCSC Introduction to Formal Language and Automata theory E \nCSC Systems Analysis and Design C \nCSC Functional Programming  E \nENT Entrepreneurship Stu dies II  C \nMAT Operations Research E \nGNS Logic and Philosophy C \nCSC Computer application III for arts, social sciences and \nmanagement sciences ** \n++CSC Practical Application of Database in Industries R \n++CSC Practical App lication of Data and Information -\nPresentation Skills R \n++CSC Students' Industrial  Work Experience Scheme "
-    },
-    {
-        "extracted_portion": "(SIWES) R  CSC C \nTotal units   C (6), R(12)  \n++ New courses introduced to enable students meet up with the University policy \nofminimum units per semester. Courses are practical applications of computer \nscience to industries.  See course description for more information  "
-    },
-    {
-        "extracted_portion": " LEVEL, HAMMATTAN  \n Title  "
-    },
-    {
-        "extracted_portion": "\nCSC Social and Professional Issues in Information \nTechnology   U S \nCSCSoftware Engineering   E \nCSC Statistical Computing   C \nCSC Embedded computer systems  E \nCSC Computational Science   & Numerical Methods E \nCSC Modelling and Simulation  C \nCSC Analysis and Design of Digital System  E \nCSCArtificial Intelligence E \nCSC Optimization Theory  C \nCSC Statistical Processing Systems  E \nCSC1 Human Computer Interface E \nCSC Net-Centric Computing C \nCSC Seminar on special topics in computer science E \nCSC Project Management C \n ** \nTotal  units   C (14), E (22)  \n** CSCis for non -computer science students  "
-    },
-    {
-        "extracted_portion": " LEVEL, RAIN  \n Title  \nCSC Pattern Recognition and Computer vision  U S \nCSC Introduction to Computer Security E "
-    },
-    {
-        "extracted_portion": " E \nCSC Expert S ystems   and Knowledge Engineering    \nCSC Further Statistical Processing E \nCSC Computer Graphics  and Visual Computing E \nCSC Computer Network/ Communication E \nCSC Principles of programming language II C \nCSC Introduction to P HP & MYSQL  C \nCSC Robotics E \nCSC Digital Image Processing E \nCSC Final Year Project E \nENT Entrepreneurship II C "
-    },
-    {
-        "extracted_portion": "  C \nTotal units    C (12), E (19)  "
-    },
-    {
         "extracted_portion": "CSC 104: SOFTWARE WORKSHOP (3 UNITS) - C \nProgrammin g language; Basic elements, Data types, Control structures and Program design; Basic I/O \nconcepts; Arrays; Procedures, Functions and structured programming; Modules; Dynamic Memory \nAllocation; Programming exercises using current version of FORTRAN language  with emphasis on science \napplication problems.  "
     },
     {
         "extracted_portion": "CSC 111: INTRODUCTION TO COMPUTER SCIENCE (3 UNITS) - C  \nMeaning and history of Computer Science. Generations of computers. Computer Hardware: functional \ncomponents, Modern input and output units. Computer S oftware: Operating Systems, Application "
-    },
-    {
-        "extracted_portion": "\n Packages. Program Development tools: Flow charts and algorithms. Pr ograms Objects, BASIC or VISUAL \nBASIC Fundamentals.  "
     },
     {
         "extracted_portion": "CSC 112: PRINCIPLES OF COMPUTER ORGANIZATION (2 UNITS) - C \nBasic concepts of simple machine arc hitecture, major components, functional relationship between the \ncomponents of the processing UNITS (contro ls, memory and A.L.U) stored program concepts, \nrepresentation of instruction in computer memory, addressing, instruction cycle. Computer design: \norganization, design operation and programming assemblers, program loaders and relocation. Levels of \nmachine de sign; gates; register and processor levels. CPU design, instruction sets, von Neumann \narchitecture, multiplication and division algorithms and implem entation, floating point processors. \nParallelism, multiprocessor etc. control unit design, hardwired and mi cro-programmed control. Memory \ndesign, hierarchical memory design, cache, associative and inter leaved memory.  "
@@ -243,10 +201,7 @@
         "extracted_portion": "CSC 437: ARTIFICIAL INTELLIGENCE (3 UNITS) - C     \nIntroduction to Artificial Int elligence, understanding natural languages, knowledge representation, \nexport system pattern recognition, the language HLSP and PROLOG. Intelligent agents  ; Problem solving \nas search  : Search strategies  : Breath first, Depth -first, uniform cost, dept constr aint satisfaction \nProblems, Backtracking search for CSP, Constraint Propagation, Local search for CSPs. Logic -based \nknowledge representation.  "
     },
     {
-        "extracted_portion": "CSCCOMPUTER NETWORK AND DATA COMMUNICATION (3 UNITS) - E \nIntroduction to concepts, principles and practice o f computer communication networks with examples \nfrom existing architectures, protocols, and standards. Layering and the OSL model, switching, local, \nmetropolitan, and wide area networks, data grams and vir tual circuits, mounting and congestion control, \ninternet working. Introduction, wares, Fourier analysis, measure of communication, channel \ncharacteristics, transmission media, noise and distortion, modulation and demodulation, multiplexing, "
-    },
-    {
-        "extracted_portion": "\n TDM FDM and FCM  Parallel and serial transmission (synchronous Vs a synchronous). Bus structures and \nloop systems, computer network Examples and design consideration, data switching principles broadcast \ntechniques, network structure for packet switching, protocols, descrip tion of network e.g. ARPANET, etc.  "
+        "extracted_portion": "CSC 438 COMPUTER NETWORK AND DATA COMMUNICATION (3 UNITS) - E \nIntroduction to concepts, principles and practice o f computer communication networks with examples \nfrom existing architectures, protocols, and standards. Layering and the OSL model, switching, local, \nmetropolitan, and wide area networks, data grams and vir tual circuits, mounting and congestion control, \ninternet working. Introduction, wares, Fourier analysis, measure of communication, channel \ncharacteristics, transmission media, noise and distortion, modulation and demodulation, multiplexing, "
     },
     {
         "extracted_portion": "CSC 439: STATIS TICAL PROCESSING SYSTEMS (3 UNITS) - E \nDesign and Analysis of Sampling Surveys; Statistical Data Compression; 2D, 3D Frequency Table, Points \nand Interval Estimation; Test of Significance: Test of Hypothesi s; Analysis of Categorical Data; Model \nValidation; x2-Test, Probability Plots.  "

@@ -21,7 +21,7 @@ punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
 # Load the preprocessed data
-df = pd.read_json('Data_Extraction_and_processing/extracted_text.json')
+df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/output.json')
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
@@ -35,7 +35,7 @@ def generate_summary(user_input):
     similarities = cosine_similarity(input_vector, vectorizer.transform(df['extracted_portion']))
     best_match_index = np.argmax(similarities)
     summary = df.loc[best_match_index, 'extracted_portion']
-    score = similarities[0, best_match_index]
+    score = similarities[0, best_match_index]   
     return summary, score
 
 def generate_response(prompt):
@@ -51,6 +51,8 @@ def generate_response(prompt):
 def handle_user_input(user_input):
     summary, score = generate_summary(user_input)  
     response = generate_response(user_input)
+
+    
     return summary, score, response
 
 def calculate_rouge(reference, hypothesis):
@@ -65,7 +67,7 @@ def main():
     if user_input.lower() == "exit":
       break
     summary, score, response = handle_user_input(user_input)
-    if score>0:
+    if score>0.1:
         rouge_scores = calculate_rouge(user_input, summary)
         print(f"Chatbot: {summary} \n\nSummary score: {score} \n\nRogue scores: {rouge_scores}")
     else:
