@@ -40,6 +40,10 @@ df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Proje
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
 vectorizer.fit_transform(df['extracted_portion'])
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+genai.configure(api_key=GOOGLE_API_KEY)
+model = genai.GenerativeModel('gemini-1.5-flash')
+
 
 def generate_summary(user_input):
     cleaned_input = user_input
@@ -51,9 +55,7 @@ def generate_summary(user_input):
     return summary, score
 
 def generate_response1(prompt):
-    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-    genai.configure(api_key=GOOGLE_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    
     response = model.generate_content(prompt)
     return response.text
 
@@ -81,7 +83,11 @@ def generate_response(prompt):
     summary, score, response = handle_user_input(prompt)
     # print(score)
     if score > 0.1:
-        response = summary
+        if "explain" in prompt.lower():
+            response = model.generate_content(f"Explain with less words and clear: {prompt}")
+            response= response.text
+        else:
+            response = summary
     return response
 
 def send_message(data):

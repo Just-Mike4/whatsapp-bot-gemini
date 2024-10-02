@@ -13,7 +13,9 @@ from rouge_score import rouge_scorer
 tool = language_tool_python.LanguageToolPublicAPI('en-US')
 
 load_dotenv()
-
+GOOGLE_API_KEY= os.getenv('GOOGLE_API_KEY')
+genai.configure(api_key=GOOGLE_API_KEY)
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize SpaCy, punctuation, stopwords, and LanguageTool
 nlp = spacy.load('en_core_web_sm')
@@ -21,7 +23,7 @@ punc = string.punctuation
 stopwords = list(spacy.lang.en.stop_words.STOP_WORDS)
 
 # Load the preprocessed data
-df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/output.json')
+df = pd.read_json('/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/extracted_text.json')
 
 # Create a TfidfVectorizer object
 vectorizer = TfidfVectorizer(stop_words='english')
@@ -39,9 +41,6 @@ def generate_summary(user_input):
     return summary, score
 
 def generate_response(prompt):
-  GOOGLE_API_KEY= os.getenv('GOOGLE_API_KEY')
-  genai.configure(api_key=GOOGLE_API_KEY)
-  model = genai.GenerativeModel('gemini-1.5-flash')
   response = model.generate_content(prompt)
   return response.text
 
@@ -56,7 +55,7 @@ def handle_user_input(user_input):
     return summary, score, response
 
 def calculate_rouge(reference, hypothesis):
-    scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
+    scorer = rouge_scorer.RougeScorer(['rougeL'])
     scores = scorer.score(reference, hypothesis)
     return scores
 
@@ -69,7 +68,11 @@ def main():
     summary, score, response = handle_user_input(user_input)
     if score>0.1:
         rouge_scores = calculate_rouge(user_input, summary)
-        print(f"Chatbot: {summary} \n\nSummary score: {score} \n\nRogue scores: {rouge_scores}")
+        if "explain" in user_input.lower():
+            response = model.generate_content(f"Explain with less words and clear: {user_input}")
+            print(f"Chatbot: {response.text} \n\nSummary score: {score} \n\nRogue scores: {rouge_scores}")
+        else:
+          print(f"Chatbot: {summary} \n\nSummary score: {score} \n\nRogue scores: {rouge_scores}")
     else:
         print(f"Chatbot: {response}")
 
