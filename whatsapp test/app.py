@@ -27,7 +27,7 @@ VERSION = 'v18.0'
 RECIPIENT_WAID = os.getenv('RECIPIENT_WAID')
 PORT = 8000
 
-tool = language_tool_python.LanguageToolPublicAPI('en-US')
+
 
 # Initialize SpaCy, punctuation, stopwords, and LanguageTool
 nlp = spacy.load('en_core_web_sm')
@@ -57,16 +57,11 @@ def generate_response1(prompt):
     response = model.generate_content(prompt)
     return response.text
 
-def correct_grammar(text):
-    matches = tool.check(text)
-    corrected_text = language_tool_python.utils.correct(text, matches)
-    return corrected_text
 
 def handle_user_input(user_input):
     summary, score = generate_summary(user_input)
-    corrected_summary = correct_grammar(summary)
     response = generate_response1(user_input)
-    return corrected_summary, score, response
+    return summary, score, response
 
 def log_http_response(response):
     logging.info(f"Status: {response.status_code}")
