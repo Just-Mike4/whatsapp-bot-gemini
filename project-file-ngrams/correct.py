@@ -13,7 +13,7 @@ def correct_text(text):
     return response.text
 
 # Input and output file paths
-input_file = '/Users/joshuaodugbemi/Desktop/Major Projects/Final Year Project/ocr_handbook.txt'
+input_file = 'C:\Users\user\Desktop\Final Project\final-year-proj\project-file-ngrams\ocr_handbook.txt'
 output_file = 'corrected_final.txt'
 
 # Read input file, correct text, and write to output file
