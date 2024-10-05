@@ -53,8 +53,8 @@ def write_to_json(output_path, extracted_portions):
 
 # Main function to execute the script
 if __name__ == "__main__":
-    input_file = "corrected_final.txt"  # Change this to your actual file path
-    output_file = "output.json"
+    input_file = "C:\Users\user\Desktop\Final Project\final-year-proj\project-file-ngrams\corrected_final.txt"  # Change this to your actual file path
+    output_file = "extracted_text.json"
 
     extracted_data = extract_portions(input_file)
     write_to_json(output_file, extracted_data)
